@@ -1,0 +1,4403 @@
+[
+    {
+        "invmastserviceid": 62857,
+        "name": "128 Slice CT Abdomen Plain"
+    },
+    {
+        "invmastserviceid": 62858,
+        "name": "128 Slice CT Brain Angiogram"
+    },
+    {
+        "invmastserviceid": 62859,
+        "name": "128 slice CT Chest+Abdomen(Plain)"
+    },
+    {
+        "invmastserviceid": 53630,
+        "name": "17 - Alpha Progestrone"
+    },
+    {
+        "invmastserviceid": 53631,
+        "name": "17 - Alpha Progestrone- Follicular Phase"
+    },
+    {
+        "invmastserviceid": 53556,
+        "name": "17 - Alpha Progestrone- Ovulation"
+    },
+    {
+        "invmastserviceid": 53557,
+        "name": "17 - Alpha Progestrone- Post ACTH"
+    },
+    {
+        "invmastserviceid": 53559,
+        "name": "17 - Alpha Progestrone- Postmenopausal women"
+    },
+    {
+        "invmastserviceid": 53558,
+        "name": "17 - Alpha Progestrone- Pregnancy- Third Trimester"
+    },
+    {
+        "invmastserviceid": 63247,
+        "name": "Abdominal Aortic Stent Graft Bifurcated"
+    },
+    {
+        "invmastserviceid": 63248,
+        "name": "Abdominal Aortic Stent Graft fenestrated"
+    },
+    {
+        "invmastserviceid": 63249,
+        "name": "Abdominal Aortic Stent Graft Standard"
+    },
+    {
+        "invmastserviceid": 63250,
+        "name": "Abdominal Aortic Stent Graft Tubular"
+    },
+    {
+        "invmastserviceid": 63251,
+        "name": "Abdominal Aortic Stent Graft with iliac branch device"
+    },
+    {
+        "invmastserviceid": 63504,
+        "name": "Absolute Basophil Count"
+    },
+    {
+        "invmastserviceid": 63507,
+        "name": "Absolute Eosinophil Count"
+    },
+    {
+        "invmastserviceid": 63506,
+        "name": "Absolute Lymphocyte Count"
+    },
+    {
+        "invmastserviceid": 63505,
+        "name": "Absolute Monocyte Count"
+    },
+    {
+        "invmastserviceid": 63508,
+        "name": "Absolute Neutrophil Count"
+    },
+    {
+        "invmastserviceid": 53235,
+        "name": "Active non-surgical periodontal therapy."
+    },
+    {
+        "invmastserviceid": 53638,
+        "name": "Acute hepatitis"
+    },
+    {
+        "invmastserviceid": 53236,
+        "name": "Adding tooth to partial denture to replace extracted or decoronated tooth, per tooth"
+    },
+    {
+        "invmastserviceid": 53237,
+        "name": "Adhesive restoration of anterior tooth, 1 surface, direct"
+    },
+    {
+        "invmastserviceid": 53238,
+        "name": "Adhesive restoration of anterior tooth, 2 surfaces, direct"
+    },
+    {
+        "invmastserviceid": 53239,
+        "name": "Adhesive restoration of anterior tooth, 3 surfaces, direct"
+    },
+    {
+        "invmastserviceid": 53240,
+        "name": "Adhesive restoration of anterior tooth, 4 surfaces, direct"
+    },
+    {
+        "invmastserviceid": 53241,
+        "name": "Adhesive restoration of anterior tooth, 5 surfaces, direct"
+    },
+    {
+        "invmastserviceid": 53242,
+        "name": "Adhesive restoration of posterior tooth, 1 surface, direct"
+    },
+    {
+        "invmastserviceid": 53243,
+        "name": "Adhesive restoration of posterior tooth, 2 surfaces, direct"
+    },
+    {
+        "invmastserviceid": 53244,
+        "name": "Adhesive restoration of posterior tooth, 3 surfaces, direct"
+    },
+    {
+        "invmastserviceid": 53245,
+        "name": "Adhesive restoration of posterior tooth, 4 surfaces, direct"
+    },
+    {
+        "invmastserviceid": 53246,
+        "name": "Adhesive restoration of posterior tooth, 5 surfaces, direct"
+    },
+    {
+        "invmastserviceid": 53247,
+        "name": "Adjustment of denture"
+    },
+    {
+        "invmastserviceid": 63614,
+        "name": "Admission charges"
+    },
+    {
+        "invmastserviceid": 63252,
+        "name": "Adrenal Vein Sampling"
+    },
+    {
+        "invmastserviceid": 63548,
+        "name": "adtroomtype"
+    },
+    {
+        "invmastserviceid": 63497,
+        "name": "AFB culture"
+    },
+    {
+        "invmastserviceid": 63510,
+        "name": "AFB smear report"
+    },
+    {
+        "invmastserviceid": 53583,
+        "name": "AFP"
+    },
+    {
+        "invmastserviceid": 53248,
+        "name": "After hours dental emergency service"
+    },
+    {
+        "invmastserviceid": 63486,
+        "name": "Alanine Aminotransferase[ALT] (UV KIinetic IFFC Method)"
+    },
+    {
+        "invmastserviceid": 53471,
+        "name": "Albumin"
+    },
+    {
+        "invmastserviceid": 63368,
+        "name": "Albumin (BCG Endpoint)"
+    },
+    {
+        "invmastserviceid": 53205,
+        "name": "Alcohol and/or drug assessment"
+    },
+    {
+        "invmastserviceid": 53365,
+        "name": "Alcohol and /or drug services; group counseling by a clinician"
+    },
+    {
+        "invmastserviceid": 53364,
+        "name": "Alcohol and /or drug services; group counseling by a clinician"
+    },
+    {
+        "invmastserviceid": 53367,
+        "name": "Alcohol and/or drug services; intensive outpatient treatment (treatment program that operates at least 3 hours/day and a least 3 days/week and is based on an individualized treatment plan) including assessment, counseling, crisis intervention, and activity therapies or education"
+    },
+    {
+        "invmastserviceid": 53368,
+        "name": "Alcohol and/or substance abuse services, family/couple counseling"
+    },
+    {
+        "invmastserviceid": 53206,
+        "name": "Alcohol and/or substance abuse structured screening (e.g. AUDIT, DAST) and brief intervention 15-30 minutes"
+    },
+    {
+        "invmastserviceid": 53207,
+        "name": "Alcohol and/or substance abuse structured screening (e.g. AUDIT, DAST) and brief intervention 15-30 minutes"
+    },
+    {
+        "invmastserviceid": 53209,
+        "name": "Alcohol and/or substance abuse structured screening (e.g. AUDIT, DAST) and brief intervention, >31 minutes"
+    },
+    {
+        "invmastserviceid": 53208,
+        "name": "Alcohol and/or substance abuse structured screening (e.g. AUDIT, DAST) and brief intervention, >31 minutes"
+    },
+    {
+        "invmastserviceid": 53366,
+        "name": "Alcohol and other drug assessment by Medical Physician"
+    },
+    {
+        "invmastserviceid": 53633,
+        "name": "Alcohol (Ethanol) breath test"
+    },
+    {
+        "invmastserviceid": 63253,
+        "name": "Alcohol sclerotherapy"
+    },
+    {
+        "invmastserviceid": 53564,
+        "name": "Aldosteron"
+    },
+    {
+        "invmastserviceid": 63488,
+        "name": "Alkaline Phosphatase (UV Kinetic PNP AMP Method)"
+    },
+    {
+        "invmastserviceid": 53369,
+        "name": "Allied Health Intervention, Dietetics"
+    },
+    {
+        "invmastserviceid": 53370,
+        "name": "Allied Health Intervention, Social Work (for patients with SUD)"
+    },
+    {
+        "invmastserviceid": 63489,
+        "name": "Alpha Feto Protein (AFP)"
+    },
+    {
+        "invmastserviceid": 53586,
+        "name": "Amphetamine"
+    },
+    {
+        "invmastserviceid": 63430,
+        "name": "Anaerobic Culture"
+    },
+    {
+        "invmastserviceid": 63623,
+        "name": "Anaesthesia Fee"
+    },
+    {
+        "invmastserviceid": 63622,
+        "name": "Anaesthetist Fee"
+    },
+    {
+        "invmastserviceid": 63254,
+        "name": "Angiogram, Carotid"
+    },
+    {
+        "invmastserviceid": 63255,
+        "name": "Angiogram, Cerebral"
+    },
+    {
+        "invmastserviceid": 63256,
+        "name": "Angiogram, Mesenteric"
+    },
+    {
+        "invmastserviceid": 63257,
+        "name": "Angiogram, Peripheral"
+    },
+    {
+        "invmastserviceid": 63258,
+        "name": "Angiogram, Pulmonary"
+    },
+    {
+        "invmastserviceid": 63259,
+        "name": "Angiogram, Renal Selective"
+    },
+    {
+        "invmastserviceid": 63260,
+        "name": "Antegrade Pyelogram"
+    },
+    {
+        "invmastserviceid": 63261,
+        "name": "Antegrade Stent Placement Pyelogram"
+    },
+    {
+        "invmastserviceid": 53650,
+        "name": "Antenatal Screen"
+    },
+    {
+        "invmastserviceid": 53603,
+        "name": "anti HBcIgM"
+    },
+    {
+        "invmastserviceid": 53607,
+        "name": "anti-HBs"
+    },
+    {
+        "invmastserviceid": 53604,
+        "name": "anti HCV"
+    },
+    {
+        "invmastserviceid": 53608,
+        "name": "anti HIV"
+    },
+    {
+        "invmastserviceid": 53577,
+        "name": "Anti- Tg"
+    },
+    {
+        "invmastserviceid": 53576,
+        "name": "Anti- TPO"
+    },
+    {
+        "invmastserviceid": 63262,
+        "name": "Aortogram Only"
+    },
+    {
+        "invmastserviceid": 63263,
+        "name": "Aortogram with Lower or upper extremity Selective"
+    },
+    {
+        "invmastserviceid": 63264,
+        "name": "Aortogram with Mesenteric Selective"
+    },
+    {
+        "invmastserviceid": 63265,
+        "name": "Aortogram with Pelvic Selective"
+    },
+    {
+        "invmastserviceid": 63266,
+        "name": "Aortogram with Renal Selective"
+    },
+    {
+        "invmastserviceid": 53249,
+        "name": "Apical seal of root canal, per canal"
+    },
+    {
+        "invmastserviceid": 53250,
+        "name": "Apicectomy, per root"
+    },
+    {
+        "invmastserviceid": 63363,
+        "name": "Appendectomy"
+    },
+    {
+        "invmastserviceid": 53251,
+        "name": "Application of concentrated remineralization agent, per tooth"
+    },
+    {
+        "invmastserviceid": 63267,
+        "name": "Arterial Thrombectomy"
+    },
+    {
+        "invmastserviceid": 63268,
+        "name": "Arterial Thrombolysis 24 hrs"
+    },
+    {
+        "invmastserviceid": 63269,
+        "name": "Arthrogram Diagnostic"
+    },
+    {
+        "invmastserviceid": 53141,
+        "name": "Asks for personal needs"
+    },
+    {
+        "invmastserviceid": 63490,
+        "name": "Aspartate Aminotransferase (AST) ( UV Kinetic IFCC Method )"
+    },
+    {
+        "invmastserviceid": 53371,
+        "name": "Assessment of home, physical and family environment, to determine suitability to meet patients medical needs"
+    },
+    {
+        "invmastserviceid": 63663,
+        "name": "AssesTest"
+    },
+    {
+        "invmastserviceid": 53527,
+        "name": "ATIII"
+    },
+    {
+        "invmastserviceid": 53252,
+        "name": "Attachment of veneer to surface of tooth, indirect"
+    },
+    {
+        "invmastserviceid": 63431,
+        "name": "Bacterial Culture and Sensitivity-(A)"
+    },
+    {
+        "invmastserviceid": 63270,
+        "name": "Balloon Occlusion internal iliac arteries"
+    },
+    {
+        "invmastserviceid": 53587,
+        "name": "Barbiturates"
+    },
+    {
+        "invmastserviceid": 63201,
+        "name": "Barium Enema"
+    },
+    {
+        "invmastserviceid": 63202,
+        "name": "Barium Follow Through"
+    },
+    {
+        "invmastserviceid": 63203,
+        "name": "Barium Swallow & Meal"
+    },
+    {
+        "invmastserviceid": 63204,
+        "name": "Barium Swallow only"
+    },
+    {
+        "invmastserviceid": 53458,
+        "name": "Basophils"
+    },
+    {
+        "invmastserviceid": 53372,
+        "name": "Behavioral health counseling and therapy, per 15 min"
+    },
+    {
+        "invmastserviceid": 53373,
+        "name": "Behavioral health counseling and therapy, per 15 minutes"
+    },
+    {
+        "invmastserviceid": 53445,
+        "name": "Behavior therapy (patients with SUD)"
+    },
+    {
+        "invmastserviceid": 53588,
+        "name": "Benzodiazepines"
+    },
+    {
+        "invmastserviceid": 53575,
+        "name": "Beta HCG"
+    },
+    {
+        "invmastserviceid": 63491,
+        "name": "Bicarbonate (PEPC Method)"
+    },
+    {
+        "invmastserviceid": 63492,
+        "name": "Bilirubin Conjugated / Direct(Diazo method)"
+    },
+    {
+        "invmastserviceid": 63493,
+        "name": "Bilirubin Total - Body Fluids"
+    },
+    {
+        "invmastserviceid": 63494,
+        "name": "Bilirubin Total (Diazo method)"
+    },
+    {
+        "invmastserviceid": 63383,
+        "name": "Bilirubin Unconjugated"
+    },
+    {
+        "invmastserviceid": 54977,
+        "name": "Biopsy-Immuno Histochemistry From Outside"
+    },
+    {
+        "invmastserviceid": 54976,
+        "name": "Biopsy-Immuno Histochemistry with Markers"
+    },
+    {
+        "invmastserviceid": 54972,
+        "name": "Biopsy - Liver Biopsy"
+    },
+    {
+        "invmastserviceid": 63271,
+        "name": "Biopsy, x-per guide"
+    },
+    {
+        "invmastserviceid": 63168,
+        "name": "Bitewing"
+    },
+    {
+        "invmastserviceid": 53253,
+        "name": "Bleaching, external, per tooth"
+    },
+    {
+        "invmastserviceid": 53254,
+        "name": "Bleaching, internal, per tooth"
+    },
+    {
+        "invmastserviceid": 63428,
+        "name": "Bleeding Time"
+    },
+    {
+        "invmastserviceid": 62862,
+        "name": "Blood Culture"
+    },
+    {
+        "invmastserviceid": 63377,
+        "name": "Blood Urea Nitrogen (GLDH Urease kinetic method)"
+    },
+    {
+        "invmastserviceid": 63537,
+        "name": "Body Fluid Creatinine"
+    },
+    {
+        "invmastserviceid": 63481,
+        "name": "Body Fluid Culture and sensitivity (Bac-T Alert)"
+    },
+    {
+        "invmastserviceid": 53255,
+        "name": "Bonding of veneer to surface of tooth, direct"
+    },
+    {
+        "invmastserviceid": 63447,
+        "name": "Bone Marrow Aspiration Cytology (BMA)"
+    },
+    {
+        "invmastserviceid": 63635,
+        "name": "Bone Marrow Aspiration Cytology (BMA) (NEW)"
+    },
+    {
+        "invmastserviceid": 63637,
+        "name": "Bone Marrow Aspiration Cytology (BMA) (outsource)"
+    },
+    {
+        "invmastserviceid": 63432,
+        "name": "Bonemarrow culture and Sensitivity Anaerobic (Bactec)"
+    },
+    {
+        "invmastserviceid": 63433,
+        "name": "Bonemarrow culture and Sensitivity Bactec"
+    },
+    {
+        "invmastserviceid": 53256,
+        "name": "Bridge pontic, direct, per pontic"
+    },
+    {
+        "invmastserviceid": 53257,
+        "name": "Bridge pontic, indirect, per pontic"
+    },
+    {
+        "invmastserviceid": 53589,
+        "name": "Buprenorphine"
+    },
+    {
+        "invmastserviceid": 63564,
+        "name": "c10"
+    },
+    {
+        "invmastserviceid": 63378,
+        "name": "C3"
+    },
+    {
+        "invmastserviceid": 63379,
+        "name": "C4"
+    },
+    {
+        "invmastserviceid": 53579,
+        "name": "CA 125"
+    },
+    {
+        "invmastserviceid": 53580,
+        "name": "CA 15-3"
+    },
+    {
+        "invmastserviceid": 53581,
+        "name": "CA 19-9"
+    },
+    {
+        "invmastserviceid": 53479,
+        "name": "Calcium"
+    },
+    {
+        "invmastserviceid": 63380,
+        "name": "Calcium (NM--BAPTA method)"
+    },
+    {
+        "invmastserviceid": 63272,
+        "name": "Card. Atrial Septostomy for TGA  Angiogram"
+    },
+    {
+        "invmastserviceid": 63274,
+        "name": "Card.Cath. No Angiogram"
+    },
+    {
+        "invmastserviceid": 63275,
+        "name": "Card.Coronary Angiogram"
+    },
+    {
+        "invmastserviceid": 63276,
+        "name": "Card.Coronary Angioplasty"
+    },
+    {
+        "invmastserviceid": 63273,
+        "name": "Card. Dilatation Balloon Mitral"
+    },
+    {
+        "invmastserviceid": 63277,
+        "name": "Card.HIS Bundle Study"
+    },
+    {
+        "invmastserviceid": 63278,
+        "name": "Card.L.V.Angio & Coronaries"
+    },
+    {
+        "invmastserviceid": 63354,
+        "name": "Card.L.V.Angiogram"
+    },
+    {
+        "invmastserviceid": 63279,
+        "name": "Card.L.V.Angio-R.Heart Cat."
+    },
+    {
+        "invmastserviceid": 53374,
+        "name": "Care Advocacysupport services (for patients with SUD)"
+    },
+    {
+        "invmastserviceid": 53375,
+        "name": "Case management, each 15 minutes"
+    },
+    {
+        "invmastserviceid": 63169,
+        "name": "CBCT 5x5 Mandible front"
+    },
+    {
+        "invmastserviceid": 63170,
+        "name": "CBCT 5x5 Mandible molar left"
+    },
+    {
+        "invmastserviceid": 63171,
+        "name": "CBCT 5x5 Mandible molar right"
+    },
+    {
+        "invmastserviceid": 63172,
+        "name": "CBCT 5x5 Mandible Premolar left"
+    },
+    {
+        "invmastserviceid": 63173,
+        "name": "CBCT 5x5 Mandible Premolar right"
+    },
+    {
+        "invmastserviceid": 63174,
+        "name": "CBCT 5x5 Maxilla Front"
+    },
+    {
+        "invmastserviceid": 63175,
+        "name": "CBCT 5x5 Maxilla molar left"
+    },
+    {
+        "invmastserviceid": 63176,
+        "name": "CBCT 5x5 Maxilla molar right"
+    },
+    {
+        "invmastserviceid": 63177,
+        "name": "CBCT 5x5 Maxilla Premolar left"
+    },
+    {
+        "invmastserviceid": 63178,
+        "name": "CBCT 5x5 Maxilla Premolar right"
+    },
+    {
+        "invmastserviceid": 53582,
+        "name": "CEA"
+    },
+    {
+        "invmastserviceid": 63280,
+        "name": "Central venous catheter"
+    },
+    {
+        "invmastserviceid": 63179,
+        "name": "Cephalometric Hand"
+    },
+    {
+        "invmastserviceid": 63180,
+        "name": "Cephalometric Head Lateral"
+    },
+    {
+        "invmastserviceid": 63181,
+        "name": "Cephalometric Head PA"
+    },
+    {
+        "invmastserviceid": 63182,
+        "name": "Cephalometric SMV"
+    },
+    {
+        "invmastserviceid": 63183,
+        "name": "Cephalometric Waters view"
+    },
+    {
+        "invmastserviceid": 63281,
+        "name": "Chemoembolization"
+    },
+    {
+        "invmastserviceid": 62931,
+        "name": "Chest X-ray"
+    },
+    {
+        "invmastserviceid": 63381,
+        "name": "Chloride (ISE Indirect)"
+    },
+    {
+        "invmastserviceid": 63205,
+        "name": "Cholecystogram, Operative"
+    },
+    {
+        "invmastserviceid": 63282,
+        "name": "Cholecystogram, T-Tube"
+    },
+    {
+        "invmastserviceid": 63283,
+        "name": "Cholecystomy and Percutaneous Biliary Catheter (PTC)"
+    },
+    {
+        "invmastserviceid": 63382,
+        "name": "Cholesterol (CHOD PAP)"
+    },
+    {
+        "invmastserviceid": 53475,
+        "name": "Cholestrol"
+    },
+    {
+        "invmastserviceid": 53258,
+        "name": "Cleaning and polishing of pre-existing denture"
+    },
+    {
+        "invmastserviceid": 53259,
+        "name": "Clinical periodontal analysis and recording"
+    },
+    {
+        "invmastserviceid": 63429,
+        "name": "Clotting Time"
+    },
+    {
+        "invmastserviceid": 53616,
+        "name": "CMV IgG"
+    },
+    {
+        "invmastserviceid": 53590,
+        "name": "Cocaine"
+    },
+    {
+        "invmastserviceid": 53376,
+        "name": "Cognitive Behavioral Therapy (patients with SUD)"
+    },
+    {
+        "invmastserviceid": 53377,
+        "name": "Cognitive skills remediation, each 15 minutes"
+    },
+    {
+        "invmastserviceid": 53139,
+        "name": "Combines word"
+    },
+    {
+        "invmastserviceid": 63499,
+        "name": "Complete Blood Count (CBC - VCS Technology)"
+    },
+    {
+        "invmastserviceid": 53260,
+        "name": "Complete chemo mechanical preparation of root canal, 1 canal"
+    },
+    {
+        "invmastserviceid": 53261,
+        "name": "Complete chemo mechanical preparation of root canal, each additional canal"
+    },
+    {
+        "invmastserviceid": 53262,
+        "name": "Comprehensive oral examination"
+    },
+    {
+        "invmastserviceid": 53142,
+        "name": "Concept of one"
+    },
+    {
+        "invmastserviceid": 53263,
+        "name": "Cone Beam Volumetric Tomography, per appointment"
+    },
+    {
+        "invmastserviceid": 53629,
+        "name": "confirmatory INNO-LIA"
+    },
+    {
+        "invmastserviceid": 53264,
+        "name": "Control of postoperative hemorrhage following dental procedure"
+    },
+    {
+        "invmastserviceid": 53265,
+        "name": "Core for crown including post, indirect"
+    },
+    {
+        "invmastserviceid": 53550,
+        "name": "C- Peptide"
+    },
+    {
+        "invmastserviceid": 63386,
+        "name": "CPK  ISOENZYME   ELECTROPHORESIS"
+    },
+    {
+        "invmastserviceid": 63516,
+        "name": "Cradle Charge"
+    },
+    {
+        "invmastserviceid": 63552,
+        "name": "Cradle Rooms"
+    },
+    {
+        "invmastserviceid": 63387,
+        "name": "Creatine Kinase MB [CKMB] (ECLIA)"
+    },
+    {
+        "invmastserviceid": 63388,
+        "name": "Creatine Phosphokinase (CPK) (UV Kinetic method)"
+    },
+    {
+        "invmastserviceid": 63389,
+        "name": "Creatinine (Jaffes Kinetic method)"
+    },
+    {
+        "invmastserviceid": 53378,
+        "name": "Creative activity therapy, such as art, dance, drama, music, or play therapies not for recreation, but related to the care and treatment of patients disabling mental and physical health problems, per session (45 minutes or more)"
+    },
+    {
+        "invmastserviceid": 63390,
+        "name": "CRP (Immunoturbidimetric method)"
+    },
+    {
+        "invmastserviceid": 63435,
+        "name": "CSF Culture / Sensitivity"
+    },
+    {
+        "invmastserviceid": 62868,
+        "name": "CT Abdomen"
+    },
+    {
+        "invmastserviceid": 62869,
+        "name": "CT Abdomen, Pelvis"
+    },
+    {
+        "invmastserviceid": 62870,
+        "name": "CT Acute Brain Stroke"
+    },
+    {
+        "invmastserviceid": 62871,
+        "name": "CT Adrenal Glands"
+    },
+    {
+        "invmastserviceid": 62872,
+        "name": "CT Angiogram Carotid + Brain"
+    },
+    {
+        "invmastserviceid": 62873,
+        "name": "CT Angiography Abdomen"
+    },
+    {
+        "invmastserviceid": 62874,
+        "name": "CT Angiography Lower Limbs"
+    },
+    {
+        "invmastserviceid": 62875,
+        "name": "CT Angiography Pulmonary Arteries"
+    },
+    {
+        "invmastserviceid": 62876,
+        "name": "CT Angiography Thoracic Aorta"
+    },
+    {
+        "invmastserviceid": 62877,
+        "name": "CT Angiography Upper Limbs"
+    },
+    {
+        "invmastserviceid": 62878,
+        "name": "CT Ankle"
+    },
+    {
+        "invmastserviceid": 62879,
+        "name": "CT Arm"
+    },
+    {
+        "invmastserviceid": 62880,
+        "name": "CT Arthrogram"
+    },
+    {
+        "invmastserviceid": 62881,
+        "name": "CT Brain"
+    },
+    {
+        "invmastserviceid": 62882,
+        "name": "CT Cardiac"
+    },
+    {
+        "invmastserviceid": 62883,
+        "name": "CT Chest"
+    },
+    {
+        "invmastserviceid": 62884,
+        "name": "CT Chest, Abdomen, Pelvis"
+    },
+    {
+        "invmastserviceid": 62885,
+        "name": "CT Colonography"
+    },
+    {
+        "invmastserviceid": 62886,
+        "name": "CT Coronary Calcium Scoring"
+    },
+    {
+        "invmastserviceid": 62887,
+        "name": "CT Cystogram"
+    },
+    {
+        "invmastserviceid": 62888,
+        "name": "CT Elbow"
+    },
+    {
+        "invmastserviceid": 62889,
+        "name": "CT Enteroclysis"
+    },
+    {
+        "invmastserviceid": 62890,
+        "name": "CT Extremities"
+    },
+    {
+        "invmastserviceid": 62891,
+        "name": "CT Facial Bones"
+    },
+    {
+        "invmastserviceid": 62892,
+        "name": "CT Femur"
+    },
+    {
+        "invmastserviceid": 62893,
+        "name": "CT Foot"
+    },
+    {
+        "invmastserviceid": 62894,
+        "name": "CT Guided Aspiration"
+    },
+    {
+        "invmastserviceid": 62895,
+        "name": "CT Guided Biopsy"
+    },
+    {
+        "invmastserviceid": 63356,
+        "name": "CT-guided Drainage"
+    },
+    {
+        "invmastserviceid": 63357,
+        "name": "CT-guided RFA (Double Probe)"
+    },
+    {
+        "invmastserviceid": 63358,
+        "name": "CT-guided RFA (Single Probe)"
+    },
+    {
+        "invmastserviceid": 63359,
+        "name": "CT-guided RFA (Triple Probe)"
+    },
+    {
+        "invmastserviceid": 62896,
+        "name": "CT Guided Sclerotherapy"
+    },
+    {
+        "invmastserviceid": 62897,
+        "name": "CT Head, C, Spine"
+    },
+    {
+        "invmastserviceid": 62898,
+        "name": "CT Head, C, Spine, Chest, Abdomen, Pelvis"
+    },
+    {
+        "invmastserviceid": 62899,
+        "name": "CT Hip"
+    },
+    {
+        "invmastserviceid": 62900,
+        "name": "CT Hip Anteroversion"
+    },
+    {
+        "invmastserviceid": 62901,
+        "name": "CT Humerus"
+    },
+    {
+        "invmastserviceid": 62902,
+        "name": "CT Int. Auditory Meatus"
+    },
+    {
+        "invmastserviceid": 62903,
+        "name": "CT Kidneys"
+    },
+    {
+        "invmastserviceid": 62904,
+        "name": "CT Knee"
+    },
+    {
+        "invmastserviceid": 62905,
+        "name": "CT Larynx, Hypopharynx"
+    },
+    {
+        "invmastserviceid": 62906,
+        "name": "CT Leg"
+    },
+    {
+        "invmastserviceid": 62907,
+        "name": "CT Mastoid"
+    },
+    {
+        "invmastserviceid": 62908,
+        "name": "CT Myelogram"
+    },
+    {
+        "invmastserviceid": 62909,
+        "name": "CT Neck"
+    },
+    {
+        "invmastserviceid": 62910,
+        "name": "CT Neck, Chest, Abdomen, Pelvis"
+    },
+    {
+        "invmastserviceid": 62911,
+        "name": "CT Orbits"
+    },
+    {
+        "invmastserviceid": 62912,
+        "name": "CT Outside Study"
+    },
+    {
+        "invmastserviceid": 62913,
+        "name": "CT Pancreas"
+    },
+    {
+        "invmastserviceid": 62914,
+        "name": "CT Parathyroid"
+    },
+    {
+        "invmastserviceid": 62915,
+        "name": "CT Parotid Glands"
+    },
+    {
+        "invmastserviceid": 63361,
+        "name": "CT Pelvimetry"
+    },
+    {
+        "invmastserviceid": 63362,
+        "name": "CT Pelvis"
+    },
+    {
+        "invmastserviceid": 62916,
+        "name": "CT Perfusion"
+    },
+    {
+        "invmastserviceid": 62917,
+        "name": "CT Petrous Bones"
+    },
+    {
+        "invmastserviceid": 62918,
+        "name": "CT Pituitary Fossa"
+    },
+    {
+        "invmastserviceid": 62919,
+        "name": "CT Renal Colic"
+    },
+    {
+        "invmastserviceid": 62920,
+        "name": "CT Sacroiliac Joints"
+    },
+    {
+        "invmastserviceid": 62921,
+        "name": "CT Shoulder"
+    },
+    {
+        "invmastserviceid": 62922,
+        "name": "CT Sinuses"
+    },
+    {
+        "invmastserviceid": 62923,
+        "name": "CT Spine Cervical"
+    },
+    {
+        "invmastserviceid": 62924,
+        "name": "CT Spine Lumbar"
+    },
+    {
+        "invmastserviceid": 62925,
+        "name": "CT Spine Thoracic"
+    },
+    {
+        "invmastserviceid": 62926,
+        "name": "CT TAVI Planning"
+    },
+    {
+        "invmastserviceid": 62927,
+        "name": "CT Thigh"
+    },
+    {
+        "invmastserviceid": 62928,
+        "name": "CT Trachea"
+    },
+    {
+        "invmastserviceid": 62929,
+        "name": "CT Urography"
+    },
+    {
+        "invmastserviceid": 62930,
+        "name": "CT Wrist"
+    },
+    {
+        "invmastserviceid": 53570,
+        "name": "Cyclosporine- Sub therapeutic range"
+    },
+    {
+        "invmastserviceid": 53571,
+        "name": "Cyclosporine- Through therapeutic"
+    },
+    {
+        "invmastserviceid": 53572,
+        "name": "Cyclosporine- Through toxic concentration"
+    },
+    {
+        "invmastserviceid": 54975,
+        "name": "Cytology-Cervical Smear"
+    },
+    {
+        "invmastserviceid": 54973,
+        "name": "Cytology-Fine Needle Aspiration (FNAC)"
+    },
+    {
+        "invmastserviceid": 63284,
+        "name": "Dacrocystogram"
+    },
+    {
+        "invmastserviceid": 53124,
+        "name": "Dada,mamma non specific"
+    },
+    {
+        "invmastserviceid": 63391,
+        "name": "D-Dimer"
+    },
+    {
+        "invmastserviceid": 63524,
+        "name": "Delux"
+    },
+    {
+        "invmastserviceid": 63553,
+        "name": "Deluxe"
+    },
+    {
+        "invmastserviceid": 63633,
+        "name": "Deluxe ICU Room"
+    },
+    {
+        "invmastserviceid": 63554,
+        "name": "deluxe new"
+    },
+    {
+        "invmastserviceid": 62850,
+        "name": "Deluxe Rent"
+    },
+    {
+        "invmastserviceid": 63555,
+        "name": "deluxes"
+    },
+    {
+        "invmastserviceid": 63184,
+        "name": "DEN CBCT"
+    },
+    {
+        "invmastserviceid": 63285,
+        "name": "Denervation renal artery"
+    },
+    {
+        "invmastserviceid": 63468,
+        "name": "Dengue IgG (ELISA)"
+    },
+    {
+        "invmastserviceid": 63469,
+        "name": "Dengue IgM (ELISA)"
+    },
+    {
+        "invmastserviceid": 53266,
+        "name": "Dental consultation"
+    },
+    {
+        "invmastserviceid": 53267,
+        "name": "Dental consultation, extended"
+    },
+    {
+        "invmastserviceid": 53268,
+        "name": "Dental treatment involving removal or repair of soft tissue, not elsewhere classified"
+    },
+    {
+        "invmastserviceid": 53269,
+        "name": "Desensitizing procedure, dental"
+    },
+    {
+        "invmastserviceid": 53554,
+        "name": "DHEAS"
+    },
+    {
+        "invmastserviceid": 63286,
+        "name": "Dialysis catheter temporary"
+    },
+    {
+        "invmastserviceid": 63287,
+        "name": "Dialysis catheter tunneled"
+    },
+    {
+        "invmastserviceid": 63501,
+        "name": "Differential Count"
+    },
+    {
+        "invmastserviceid": 63502,
+        "name": "Differential count- 5 part"
+    },
+    {
+        "invmastserviceid": 63392,
+        "name": "Digoxin (Quantitative)"
+    },
+    {
+        "invmastserviceid": 63288,
+        "name": "Dilatation, Balloon Peripheral"
+    },
+    {
+        "invmastserviceid": 63289,
+        "name": "Dilatation, Balloon Renal"
+    },
+    {
+        "invmastserviceid": 63290,
+        "name": "Dilatation, Balloon Subclavicl."
+    },
+    {
+        "invmastserviceid": 63291,
+        "name": "Drainage, x-per guide, Fluoroscopic"
+    },
+    {
+        "invmastserviceid": 53618,
+        "name": "EBV-IgM"
+    },
+    {
+        "invmastserviceid": 53617,
+        "name": "EBV-VCA-IgG"
+    },
+    {
+        "invmastserviceid": 63572,
+        "name": "ECB Hernia Package"
+    },
+    {
+        "invmastserviceid": 53591,
+        "name": "Ecstasy"
+    },
+    {
+        "invmastserviceid": 63475,
+        "name": "Electrolyte Panel"
+    },
+    {
+        "invmastserviceid": 63292,
+        "name": "Embolisation"
+    },
+    {
+        "invmastserviceid": 63293,
+        "name": "Embolization bronchial"
+    },
+    {
+        "invmastserviceid": 63294,
+        "name": "Embolization gonadal"
+    },
+    {
+        "invmastserviceid": 63295,
+        "name": "Embolization pelvic"
+    },
+    {
+        "invmastserviceid": 63296,
+        "name": "Embolization pulmonary"
+    },
+    {
+        "invmastserviceid": 63297,
+        "name": "Embolization Uterine artery"
+    },
+    {
+        "invmastserviceid": 63556,
+        "name": "Emergency"
+    },
+    {
+        "invmastserviceid": 63298,
+        "name": "Endovenous ablation,  Laser"
+    },
+    {
+        "invmastserviceid": 63299,
+        "name": "Endovenous ablation, RFA"
+    },
+    {
+        "invmastserviceid": 53379,
+        "name": "Environmental intervention for medical management purposes on a psychiatric patients behalf with agencies, employers, or institutions"
+    },
+    {
+        "invmastserviceid": 53380,
+        "name": "Environmental intervention for medical management purposes on a psychiatric patients behalf with agencies, employers, or institutions"
+    },
+    {
+        "invmastserviceid": 53457,
+        "name": "Eosinophils"
+    },
+    {
+        "invmastserviceid": 63650,
+        "name": "Equipment Fees"
+    },
+    {
+        "invmastserviceid": 54979,
+        "name": "ER Rent"
+    },
+    {
+        "invmastserviceid": 63448,
+        "name": "Erythrocyte Sedimentation Rate (ESR) (Westergren`s Method/Agregation)"
+    },
+    {
+        "invmastserviceid": 53460,
+        "name": "ESR"
+    },
+    {
+        "invmastserviceid": 53210,
+        "name": "Established patient outpatient assessment, 15 minutes"
+    },
+    {
+        "invmastserviceid": 53211,
+        "name": "Established patient outpatient assessment, 25 minutes"
+    },
+    {
+        "invmastserviceid": 53212,
+        "name": "Established patient outpatient assessment, 40 minutes"
+    },
+    {
+        "invmastserviceid": 53551,
+        "name": "Estradiol"
+    },
+    {
+        "invmastserviceid": 53644,
+        "name": "Exanthematous/maculopapular skin rash"
+    },
+    {
+        "invmastserviceid": 53381,
+        "name": "Exercise Physiology assessment and therapy"
+    },
+    {
+        "invmastserviceid": 53270,
+        "name": "Exploration or negotiation of calcified root canal, per canal"
+    },
+    {
+        "invmastserviceid": 53382,
+        "name": "Expressive Art Psychotherapy (for patients with SUD)"
+    },
+    {
+        "invmastserviceid": 53271,
+        "name": "Extirpation of pulp or debridement of root canal(s), emergency or palliative procedure"
+    },
+    {
+        "invmastserviceid": 53387,
+        "name": "Family psychotherapy by Family Therapist (for patients with SUD)"
+    },
+    {
+        "invmastserviceid": 53384,
+        "name": "Family psychotherapy - conjoint psychotherapy (with patient present)"
+    },
+    {
+        "invmastserviceid": 53383,
+        "name": "Family psychotherapy - conjoint psychotherapy (with patient present)"
+    },
+    {
+        "invmastserviceid": 53386,
+        "name": "Family psychotherapy (without the patient present)"
+    },
+    {
+        "invmastserviceid": 53385,
+        "name": "Family psychotherapy (without the patient present)"
+    },
+    {
+        "invmastserviceid": 53592,
+        "name": "Fentanyl"
+    },
+    {
+        "invmastserviceid": 53542,
+        "name": "Ferritin"
+    },
+    {
+        "invmastserviceid": 53272,
+        "name": "Fissure sealing, per tooth"
+    },
+    {
+        "invmastserviceid": 63300,
+        "name": "Fistula Declot and Angioplasty"
+    },
+    {
+        "invmastserviceid": 63301,
+        "name": "Fistulogram"
+    },
+    {
+        "invmastserviceid": 63302,
+        "name": "Fistulogram with Angioplasty"
+    },
+    {
+        "invmastserviceid": 63303,
+        "name": "Fistulogram with Stenting"
+    },
+    {
+        "invmastserviceid": 63206,
+        "name": "Fluoroscopy"
+    },
+    {
+        "invmastserviceid": 63304,
+        "name": "Fluoroscopy support in operating theater"
+    },
+    {
+        "invmastserviceid": 62932,
+        "name": "Foetus, (Still Birth)"
+    },
+    {
+        "invmastserviceid": 53133,
+        "name": "Follows simple commands"
+    },
+    {
+        "invmastserviceid": 63305,
+        "name": "Foreign body retrieval"
+    },
+    {
+        "invmastserviceid": 53541,
+        "name": "Free PSA"
+    },
+    {
+        "invmastserviceid": 53531,
+        "name": "Free T3"
+    },
+    {
+        "invmastserviceid": 63393,
+        "name": "FREE T3  (ECLIA)"
+    },
+    {
+        "invmastserviceid": 53530,
+        "name": "Free T4"
+    },
+    {
+        "invmastserviceid": 63394,
+        "name": "FREE T4 (ECLIA)"
+    },
+    {
+        "invmastserviceid": 63395,
+        "name": "Free T4 (Fasting)"
+    },
+    {
+        "invmastserviceid": 54982,
+        "name": "Free Text Order"
+    },
+    {
+        "invmastserviceid": 54974,
+        "name": "Frozen - Liver Biopsy"
+    },
+    {
+        "invmastserviceid": 53533,
+        "name": "FSH"
+    },
+    {
+        "invmastserviceid": 53534,
+        "name": "FSH- Follicular Phase"
+    },
+    {
+        "invmastserviceid": 53536,
+        "name": "FSH- Luteal Phase"
+    },
+    {
+        "invmastserviceid": 53535,
+        "name": "FSH- Ovulation Phase"
+    },
+    {
+        "invmastserviceid": 53537,
+        "name": "FSH- PMP Phase"
+    },
+    {
+        "invmastserviceid": 53273,
+        "name": "Full crown, acrylic resin, indirect"
+    },
+    {
+        "invmastserviceid": 53274,
+        "name": "Full crown, metallic, indirect"
+    },
+    {
+        "invmastserviceid": 53275,
+        "name": "Full crown, nonmetallic, indirect"
+    },
+    {
+        "invmastserviceid": 53276,
+        "name": "Full crown, veneered, indirect"
+    },
+    {
+        "invmastserviceid": 63396,
+        "name": "G-6-PD"
+    },
+    {
+        "invmastserviceid": 63397,
+        "name": "Gamma Glutamyl Transferase (GGT) (Kinetic IFFC method)"
+    },
+    {
+        "invmastserviceid": 53546,
+        "name": "Gastrin"
+    },
+    {
+        "invmastserviceid": 63306,
+        "name": "Gastrojejunostomy - Interventional"
+    },
+    {
+        "invmastserviceid": 63307,
+        "name": "Gastrostomy - Interventional"
+    },
+    {
+        "invmastserviceid": 63603,
+        "name": "General package"
+    },
+    {
+        "invmastserviceid": 62864,
+        "name": "Genetics Beta Thalassemia (HBB) Sanger"
+    },
+    {
+        "invmastserviceid": 63308,
+        "name": "GIT Dilatation"
+    },
+    {
+        "invmastserviceid": 63309,
+        "name": "GIT stenting"
+    },
+    {
+        "invmastserviceid": 53145,
+        "name": "Gives own name when asked"
+    },
+    {
+        "invmastserviceid": 63398,
+        "name": "Globulin (Calculated)"
+    },
+    {
+        "invmastserviceid": 63549,
+        "name": "Glucernia"
+    },
+    {
+        "invmastserviceid": 63399,
+        "name": "Glucose 1.5 Hour PPBS"
+    },
+    {
+        "invmastserviceid": 63400,
+        "name": "Glucose 2 Hour PCBG (75 gm glucose)"
+    },
+    {
+        "invmastserviceid": 63401,
+        "name": "Glucose 2 Hour PPBS (Glucometer)"
+    },
+    {
+        "invmastserviceid": 63402,
+        "name": "Glucose 2 Hour PPBS (Hexokinase method)"
+    },
+    {
+        "invmastserviceid": 63403,
+        "name": "Glucose 2 HR"
+    },
+    {
+        "invmastserviceid": 63405,
+        "name": "Glucose 30 minutes"
+    },
+    {
+        "invmastserviceid": 63404,
+        "name": "Glucose 3 HR"
+    },
+    {
+        "invmastserviceid": 63406,
+        "name": "Glucose Fasting [FBS] (Glucometer method)"
+    },
+    {
+        "invmastserviceid": 63407,
+        "name": "Glucose Fasting [FBS] (Hexokinase method)"
+    },
+    {
+        "invmastserviceid": 53461,
+        "name": "Glucose (Random)"
+    },
+    {
+        "invmastserviceid": 63408,
+        "name": "Glucose Random (Glucometer)"
+    },
+    {
+        "invmastserviceid": 63409,
+        "name": "Glucose Random (Hexokinase method)"
+    },
+    {
+        "invmastserviceid": 53390,
+        "name": "Group psychotherapy, approximately 45 to 50 minutes"
+    },
+    {
+        "invmastserviceid": 53388,
+        "name": "Group psychotherapy (psychotherapy for a group of several patients in one session)"
+    },
+    {
+        "invmastserviceid": 53389,
+        "name": "Group psychotherapy (psychotherapy for a group of several patients in one session)"
+    },
+    {
+        "invmastserviceid": 53391,
+        "name": "Group therapeutic camping, day trip"
+    },
+    {
+        "invmastserviceid": 53392,
+        "name": "Group therapeutic camping, overnight"
+    },
+    {
+        "invmastserviceid": 63467,
+        "name": "H1N1 INFLUENZA(Qualitative)"
+    },
+    {
+        "invmastserviceid": 63410,
+        "name": "Haemoglobin A1C (HPLC  Method)"
+    },
+    {
+        "invmastserviceid": 63557,
+        "name": "Halfway House"
+    },
+    {
+        "invmastserviceid": 53393,
+        "name": "Halfway house services, per diem"
+    },
+    {
+        "invmastserviceid": 53605,
+        "name": "HAV IgG"
+    },
+    {
+        "invmastserviceid": 53601,
+        "name": "HAV IgM"
+    },
+    {
+        "invmastserviceid": 53525,
+        "name": "HbA1c"
+    },
+    {
+        "invmastserviceid": 53602,
+        "name": "HBsAg"
+    },
+    {
+        "invmastserviceid": 63470,
+        "name": "HBsAg (ECLIA)"
+    },
+    {
+        "invmastserviceid": 63498,
+        "name": "HB,TC,DC"
+    },
+    {
+        "invmastserviceid": 63411,
+        "name": "HDL Cholesterol (Homogeneous enzymatic)"
+    },
+    {
+        "invmastserviceid": 53477,
+        "name": "HDL- Cholestrol"
+    },
+    {
+        "invmastserviceid": 53624,
+        "name": "HDV Antibody"
+    },
+    {
+        "invmastserviceid": 53213,
+        "name": "Health and behavior assessment, follow-up, each 15 minutes"
+    },
+    {
+        "invmastserviceid": 53214,
+        "name": "Health and behavior assessment, initial, each 15 minutes"
+    },
+    {
+        "invmastserviceid": 53394,
+        "name": "Health and behavior intervention, family (with the patient present), each 15 minutes"
+    },
+    {
+        "invmastserviceid": 53395,
+        "name": "Health and behavior intervention, group (2 or more patients), each 15 minutes"
+    },
+    {
+        "invmastserviceid": 53396,
+        "name": "Health and behavior intervention, individual, family (without the patient present), each 15 minutes"
+    },
+    {
+        "invmastserviceid": 63615,
+        "name": "Hearing Test"
+    },
+    {
+        "invmastserviceid": 63529,
+        "name": "Hemodialysis"
+    },
+    {
+        "invmastserviceid": 63449,
+        "name": "HEMOGLOBIN (HB)"
+    },
+    {
+        "invmastserviceid": 63477,
+        "name": "Hepatic Panel 1 (TBil, ALT, AST, ALP)"
+    },
+    {
+        "invmastserviceid": 63478,
+        "name": "Hepatic Panel 2 (LFT)"
+    },
+    {
+        "invmastserviceid": 53640,
+        "name": "Hepatitis B post- vaccination"
+    },
+    {
+        "invmastserviceid": 53639,
+        "name": "Hepatitis B pre- vaccination"
+    },
+    {
+        "invmastserviceid": 53646,
+        "name": "Herpes virus infection: skin, genital, ocular, herpes labiblis/gingivostomatitis"
+    },
+    {
+        "invmastserviceid": 53448,
+        "name": "HGB"
+    },
+    {
+        "invmastserviceid": 53547,
+        "name": "HGH / GH"
+    },
+    {
+        "invmastserviceid": 63310,
+        "name": "Hickman Catheter"
+    },
+    {
+        "invmastserviceid": 63523,
+        "name": "High Sensitive Troponin"
+    },
+    {
+        "invmastserviceid": 63472,
+        "name": "HIV (ECLIA)"
+    },
+    {
+        "invmastserviceid": 53397,
+        "name": "Home visit for individual, family, or marriage counseling"
+    },
+    {
+        "invmastserviceid": 53578,
+        "name": "Homocysteine"
+    },
+    {
+        "invmastserviceid": 63207,
+        "name": "HSG, Hysterosalpingogram"
+    },
+    {
+        "invmastserviceid": 53620,
+        "name": "HSV 1 IgG"
+    },
+    {
+        "invmastserviceid": 53628,
+        "name": "HSV 2 IgG"
+    },
+    {
+        "invmastserviceid": 53621,
+        "name": "HSV IgM"
+    },
+    {
+        "invmastserviceid": 53623,
+        "name": "Human Herpes Virus - 6"
+    },
+    {
+        "invmastserviceid": 63558,
+        "name": "ICCU"
+    },
+    {
+        "invmastserviceid": 62851,
+        "name": "ICCU Rent"
+    },
+    {
+        "invmastserviceid": 53136,
+        "name": "Identifies all objects and pictures"
+    },
+    {
+        "invmastserviceid": 53140,
+        "name": "Identifies names of family members"
+    },
+    {
+        "invmastserviceid": 53548,
+        "name": "IGFI / SMG"
+    },
+    {
+        "invmastserviceid": 53606,
+        "name": "IgM"
+    },
+    {
+        "invmastserviceid": 53277,
+        "name": "Immediate replacement of tooth, per tooth"
+    },
+    {
+        "invmastserviceid": 53278,
+        "name": "Impression for denture repair"
+    },
+    {
+        "invmastserviceid": 53654,
+        "name": "Infectious mononuclosis/lymphadenopathy"
+    },
+    {
+        "invmastserviceid": 63652,
+        "name": "Instrument Fee"
+    },
+    {
+        "invmastserviceid": 53549,
+        "name": "Insulin"
+    },
+    {
+        "invmastserviceid": 53215,
+        "name": "Interactive complexity use in conjunction with initial /review assessment 90791, individual psychotherapy 90832, 90834, 90837, group psychotherapy 90853"
+    },
+    {
+        "invmastserviceid": 53279,
+        "name": "Interim therapeutic root filling"
+    },
+    {
+        "invmastserviceid": 53398,
+        "name": "Interpersonal psychotherapy [IPT] (patients with SUD)"
+    },
+    {
+        "invmastserviceid": 63312,
+        "name": "Interventional, Acute Stroke Endovascular Intervention"
+    },
+    {
+        "invmastserviceid": 63313,
+        "name": "Interventional, Cerebral Aneurysm Embolization A (< 10 coils)"
+    },
+    {
+        "invmastserviceid": 63311,
+        "name": "Interventional Cerebral Aneurysm Embolization B(>10 coils)"
+    },
+    {
+        "invmastserviceid": 63314,
+        "name": "Interventional, Cerebral AVM Embolization Onyx"
+    },
+    {
+        "invmastserviceid": 63315,
+        "name": "Interventional, Occlusion (Wuda) Test"
+    },
+    {
+        "invmastserviceid": 63316,
+        "name": "Interventional, Petrosal Sinus Venous Sampling"
+    },
+    {
+        "invmastserviceid": 63317,
+        "name": "Interventional, Spinal AVM Embolization"
+    },
+    {
+        "invmastserviceid": 63318,
+        "name": "Interventional, Tumor Embolization Onyx"
+    },
+    {
+        "invmastserviceid": 63319,
+        "name": "Interventional, Tumour Embolization PVA"
+    },
+    {
+        "invmastserviceid": 53280,
+        "name": "Intraoral periapical or bitewing radiography, per exposure"
+    },
+    {
+        "invmastserviceid": 53281,
+        "name": "Irrigation and dressing of root canal system, per tooth"
+    },
+    {
+        "invmastserviceid": 63320,
+        "name": "IVC Filter Placement"
+    },
+    {
+        "invmastserviceid": 63321,
+        "name": "IVC Retrieval"
+    },
+    {
+        "invmastserviceid": 62933,
+        "name": "I.V.U., Urogram Intravenous"
+    },
+    {
+        "invmastserviceid": 54980,
+        "name": "Jevity 1.5 cal"
+    },
+    {
+        "invmastserviceid": 63644,
+        "name": "Knee Replacement pkg"
+    },
+    {
+        "invmastserviceid": 53149,
+        "name": "Knows some spatial concepts"
+    },
+    {
+        "invmastserviceid": 63676,
+        "name": "labservice"
+    },
+    {
+        "invmastserviceid": 63412,
+        "name": "LDL Cholesterol (Homogeneous enzymatic)"
+    },
+    {
+        "invmastserviceid": 53478,
+        "name": "LDL- Cholestrol"
+    },
+    {
+        "invmastserviceid": 53532,
+        "name": "LH"
+    },
+    {
+        "invmastserviceid": 53282,
+        "name": "Limited oral examination"
+    },
+    {
+        "invmastserviceid": 63483,
+        "name": "Lipid Panel"
+    },
+    {
+        "invmastserviceid": 53648,
+        "name": "Lipid Profile"
+    },
+    {
+        "invmastserviceid": 63664,
+        "name": "lipokineticenyzme"
+    },
+    {
+        "invmastserviceid": 53125,
+        "name": "Listens adult speech sounds/intonation patterns or like games"
+    },
+    {
+        "invmastserviceid": 53144,
+        "name": "Listens to story and rhymes"
+    },
+    {
+        "invmastserviceid": 53123,
+        "name": "Listens when spoken to"
+    },
+    {
+        "invmastserviceid": 53120,
+        "name": "Looks/turns head to speakers voice or sounds of toys"
+    },
+    {
+        "invmastserviceid": 53455,
+        "name": "Lymphocytes"
+    },
+    {
+        "invmastserviceid": 53450,
+        "name": "MCH"
+    },
+    {
+        "invmastserviceid": 53451,
+        "name": "MCHC"
+    },
+    {
+        "invmastserviceid": 63208,
+        "name": "MCU., Micturating Cystogram"
+    },
+    {
+        "invmastserviceid": 53449,
+        "name": "MCV"
+    },
+    {
+        "invmastserviceid": 53611,
+        "name": "Measles IgG"
+    },
+    {
+        "invmastserviceid": 53622,
+        "name": "Measles IgM"
+    },
+    {
+        "invmastserviceid": 53649,
+        "name": "Medical Evalution (pre- employment, medical report)"
+    },
+    {
+        "invmastserviceid": 53399,
+        "name": "Mental/behavioral assessment by Psychiatrist (for patients with SUD)"
+    },
+    {
+        "invmastserviceid": 63322,
+        "name": "Mesenteric Embolization < 6 coils"
+    },
+    {
+        "invmastserviceid": 53596,
+        "name": "Methadone"
+    },
+    {
+        "invmastserviceid": 53593,
+        "name": "Methamphetamines"
+    },
+    {
+        "invmastserviceid": 63559,
+        "name": "MICU"
+    },
+    {
+        "invmastserviceid": 62852,
+        "name": "MICU Rent"
+    },
+    {
+        "invmastserviceid": 53400,
+        "name": "MNT; group (2 or more individual(s)), each 30 minutes"
+    },
+    {
+        "invmastserviceid": 53203,
+        "name": "MNT; initial assessment and intervention, individual, face-to-face with the patient, each 15 minutes"
+    },
+    {
+        "invmastserviceid": 53204,
+        "name": "MNT; re-assessment and intervention, individual, face-to-face with the patient, each 15 minutes"
+    },
+    {
+        "invmastserviceid": 53456,
+        "name": "Monocytes"
+    },
+    {
+        "invmastserviceid": 53594,
+        "name": "Morphine"
+    },
+    {
+        "invmastserviceid": 63007,
+        "name": "MR Abdomen"
+    },
+    {
+        "invmastserviceid": 63008,
+        "name": "MR Ankle"
+    },
+    {
+        "invmastserviceid": 63009,
+        "name": "MR Aorta"
+    },
+    {
+        "invmastserviceid": 63010,
+        "name": "MR Arthrogram Ankle"
+    },
+    {
+        "invmastserviceid": 63011,
+        "name": "MR Arthrogram Elbow"
+    },
+    {
+        "invmastserviceid": 63012,
+        "name": "MR Arthrogram Hip"
+    },
+    {
+        "invmastserviceid": 63013,
+        "name": "MR Arthrogram Shoulder"
+    },
+    {
+        "invmastserviceid": 63014,
+        "name": "MR Arthrogram Wrist"
+    },
+    {
+        "invmastserviceid": 63015,
+        "name": "MR Brain"
+    },
+    {
+        "invmastserviceid": 63016,
+        "name": "MR Brain + Angiogram / Venogram"
+    },
+    {
+        "invmastserviceid": 63017,
+        "name": "MR Brain + Spectroscope"
+    },
+    {
+        "invmastserviceid": 63018,
+        "name": "MR Breast"
+    },
+    {
+        "invmastserviceid": 63019,
+        "name": "MR Cardiac"
+    },
+    {
+        "invmastserviceid": 63020,
+        "name": "MR Cerebral Angiogram"
+    },
+    {
+        "invmastserviceid": 63021,
+        "name": "MR Cerebral Venogram"
+    },
+    {
+        "invmastserviceid": 63022,
+        "name": "MR Cervical Spine"
+    },
+    {
+        "invmastserviceid": 63023,
+        "name": "MR Chest"
+    },
+    {
+        "invmastserviceid": 63024,
+        "name": "MR Cholangiogram"
+    },
+    {
+        "invmastserviceid": 63025,
+        "name": "MR Colonography"
+    },
+    {
+        "invmastserviceid": 63026,
+        "name": "MR Defecogram"
+    },
+    {
+        "invmastserviceid": 63027,
+        "name": "MR Enterography"
+    },
+    {
+        "invmastserviceid": 63028,
+        "name": "MR Femoral Arteries"
+    },
+    {
+        "invmastserviceid": 63029,
+        "name": "MR Foot"
+    },
+    {
+        "invmastserviceid": 63030,
+        "name": "MR Forearm"
+    },
+    {
+        "invmastserviceid": 63031,
+        "name": "MR Hand"
+    },
+    {
+        "invmastserviceid": 63032,
+        "name": "MR Hips"
+    },
+    {
+        "invmastserviceid": 63033,
+        "name": "MR Humerus"
+    },
+    {
+        "invmastserviceid": 63075,
+        "name": "MRI Achilles tendon"
+    },
+    {
+        "invmastserviceid": 63034,
+        "name": "MR I.A.M."
+    },
+    {
+        "invmastserviceid": 63076,
+        "name": "MRI Anal Canal"
+    },
+    {
+        "invmastserviceid": 63077,
+        "name": "MRI Brachial Plexus"
+    },
+    {
+        "invmastserviceid": 63078,
+        "name": "MRI brain"
+    },
+    {
+        "invmastserviceid": 63079,
+        "name": "MRI chest"
+    },
+    {
+        "invmastserviceid": 63080,
+        "name": "MRI Elbow"
+    },
+    {
+        "invmastserviceid": 63081,
+        "name": "MRI Femur"
+    },
+    {
+        "invmastserviceid": 63082,
+        "name": "MRI hip"
+    },
+    {
+        "invmastserviceid": 63083,
+        "name": "MRI knee"
+    },
+    {
+        "invmastserviceid": 63084,
+        "name": "MRI Prostate"
+    },
+    {
+        "invmastserviceid": 63085,
+        "name": "MRI Rectum"
+    },
+    {
+        "invmastserviceid": 63086,
+        "name": "MRI Sacral Plexus"
+    },
+    {
+        "invmastserviceid": 63087,
+        "name": "MRI Sacro-iliac (SI) Joints"
+    },
+    {
+        "invmastserviceid": 63088,
+        "name": "MRI spine"
+    },
+    {
+        "invmastserviceid": 63089,
+        "name": "MRI T2* Liver"
+    },
+    {
+        "invmastserviceid": 63090,
+        "name": "MRI Thumb"
+    },
+    {
+        "invmastserviceid": 63035,
+        "name": "MR Kidney"
+    },
+    {
+        "invmastserviceid": 63036,
+        "name": "MR Knee"
+    },
+    {
+        "invmastserviceid": 63037,
+        "name": "MR Liver"
+    },
+    {
+        "invmastserviceid": 63038,
+        "name": "MR Lower Extremities"
+    },
+    {
+        "invmastserviceid": 63039,
+        "name": "MR Lower Leg"
+    },
+    {
+        "invmastserviceid": 63040,
+        "name": "MR Lumbar Spine"
+    },
+    {
+        "invmastserviceid": 63041,
+        "name": "MR Lymphoma"
+    },
+    {
+        "invmastserviceid": 63042,
+        "name": "MR Mandible"
+    },
+    {
+        "invmastserviceid": 63043,
+        "name": "MR Mediastinum"
+    },
+    {
+        "invmastserviceid": 63044,
+        "name": "MR Mesenteric"
+    },
+    {
+        "invmastserviceid": 63045,
+        "name": "MR Neck"
+    },
+    {
+        "invmastserviceid": 63046,
+        "name": "MR Neck Angiogram"
+    },
+    {
+        "invmastserviceid": 63047,
+        "name": "MR Orbits"
+    },
+    {
+        "invmastserviceid": 63048,
+        "name": "MR Outside Study"
+    },
+    {
+        "invmastserviceid": 63049,
+        "name": "MR Pancreas"
+    },
+    {
+        "invmastserviceid": 63050,
+        "name": "MR Parotid"
+    },
+    {
+        "invmastserviceid": 63051,
+        "name": "MR Pelvimetry"
+    },
+    {
+        "invmastserviceid": 63052,
+        "name": "MR Pelvis"
+    },
+    {
+        "invmastserviceid": 63053,
+        "name": "MR Pituitary Fossa"
+    },
+    {
+        "invmastserviceid": 63054,
+        "name": "MR Pulmonary Angiogram"
+    },
+    {
+        "invmastserviceid": 63055,
+        "name": "MR Renal Angiogram"
+    },
+    {
+        "invmastserviceid": 63056,
+        "name": "MR Sacrum"
+    },
+    {
+        "invmastserviceid": 63057,
+        "name": "MR SCD"
+    },
+    {
+        "invmastserviceid": 63058,
+        "name": "MR SCD-Stroke"
+    },
+    {
+        "invmastserviceid": 63059,
+        "name": "MR Shoulder"
+    },
+    {
+        "invmastserviceid": 63060,
+        "name": "MR Sinuses"
+    },
+    {
+        "invmastserviceid": 63061,
+        "name": "MR Subclavian Arteries"
+    },
+    {
+        "invmastserviceid": 63062,
+        "name": "MR Supra-renal"
+    },
+    {
+        "invmastserviceid": 63064,
+        "name": "MR T2* Cardiac"
+    },
+    {
+        "invmastserviceid": 63065,
+        "name": "MR Temporal Lobe"
+    },
+    {
+        "invmastserviceid": 63066,
+        "name": "MR Thigh"
+    },
+    {
+        "invmastserviceid": 63067,
+        "name": "MR Thoracic Spine"
+    },
+    {
+        "invmastserviceid": 63063,
+        "name": "MR T.M.Joints"
+    },
+    {
+        "invmastserviceid": 63068,
+        "name": "MR Tongue"
+    },
+    {
+        "invmastserviceid": 63069,
+        "name": "MR Upper Extremities Angiogram"
+    },
+    {
+        "invmastserviceid": 63070,
+        "name": "MR Urography"
+    },
+    {
+        "invmastserviceid": 63071,
+        "name": "MR Viscera Angiogram"
+    },
+    {
+        "invmastserviceid": 63072,
+        "name": "MR Whole Body"
+    },
+    {
+        "invmastserviceid": 63073,
+        "name": "MR Whole Spine"
+    },
+    {
+        "invmastserviceid": 63074,
+        "name": "MR Wrist"
+    },
+    {
+        "invmastserviceid": 63473,
+        "name": "MTB /RIF Molecular Detection ( Gene Expert)"
+    },
+    {
+        "invmastserviceid": 53444,
+        "name": "Multiple family group psychotherapy - The therapist provides multiple family group psychotherapy by meeting with several patients families together"
+    },
+    {
+        "invmastserviceid": 63323,
+        "name": "Myelogram"
+    },
+    {
+        "invmastserviceid": 53143,
+        "name": "Names four picture"
+    },
+    {
+        "invmastserviceid": 53401,
+        "name": "Narrative therapy (patients with SUD)"
+    },
+    {
+        "invmastserviceid": 63324,
+        "name": "Nephrostomy"
+    },
+    {
+        "invmastserviceid": 53402,
+        "name": "Neuropsychological testing"
+    },
+    {
+        "invmastserviceid": 53454,
+        "name": "Neutrophils"
+    },
+    {
+        "invmastserviceid": 53217,
+        "name": "New patient outpatient assessment, 30 minutes"
+    },
+    {
+        "invmastserviceid": 53218,
+        "name": "New patient outpatient assessment, 45 minutes"
+    },
+    {
+        "invmastserviceid": 53219,
+        "name": "New patient outpatient assessment, 60 minutes"
+    },
+    {
+        "invmastserviceid": 62860,
+        "name": "NM- 131 I-Whole Body Scan"
+    },
+    {
+        "invmastserviceid": 62861,
+        "name": "NM-18F-FDG WHOLE BODY PET CT"
+    },
+    {
+        "invmastserviceid": 63091,
+        "name": "NM Barrets Oesoph."
+    },
+    {
+        "invmastserviceid": 63094,
+        "name": "NM Bone 3-4 phase"
+    },
+    {
+        "invmastserviceid": 63092,
+        "name": "NM Bone (4-phase)"
+    },
+    {
+        "invmastserviceid": 63093,
+        "name": "NM Bone (4-phase) Delay 1"
+    },
+    {
+        "invmastserviceid": 62866,
+        "name": "NM Bone Densitometry"
+    },
+    {
+        "invmastserviceid": 63095,
+        "name": "NM Bone Marrow"
+    },
+    {
+        "invmastserviceid": 63096,
+        "name": "NM Bone Spect."
+    },
+    {
+        "invmastserviceid": 63097,
+        "name": "NM Bonestatic"
+    },
+    {
+        "invmastserviceid": 63098,
+        "name": "NM Brain [dynamic]"
+    },
+    {
+        "invmastserviceid": 63100,
+        "name": "NM Brain Spect.(Perfusion)"
+    },
+    {
+        "invmastserviceid": 63099,
+        "name": "NM Brain [static]"
+    },
+    {
+        "invmastserviceid": 63102,
+        "name": "NM Cardiac Shunt"
+    },
+    {
+        "invmastserviceid": 63101,
+        "name": "NM Ca. Thyroid Rx"
+    },
+    {
+        "invmastserviceid": 63103,
+        "name": "NM Cholescintigram"
+    },
+    {
+        "invmastserviceid": 63104,
+        "name": "NM Cisternogram"
+    },
+    {
+        "invmastserviceid": 63105,
+        "name": "NM First-Pass"
+    },
+    {
+        "invmastserviceid": 63106,
+        "name": "NM Gastric Emptying"
+    },
+    {
+        "invmastserviceid": 63107,
+        "name": "NM GFR (51Cr EDTA)"
+    },
+    {
+        "invmastserviceid": 63108,
+        "name": "NM GI-Bleed (RBCs)"
+    },
+    {
+        "invmastserviceid": 63109,
+        "name": "NM Heamangioma RBCs"
+    },
+    {
+        "invmastserviceid": 63110,
+        "name": "NM HIG"
+    },
+    {
+        "invmastserviceid": 63111,
+        "name": "NM Infection"
+    },
+    {
+        "invmastserviceid": 63112,
+        "name": "NM Kidney [static]"
+    },
+    {
+        "invmastserviceid": 63113,
+        "name": "NM Leukoscan"
+    },
+    {
+        "invmastserviceid": 63114,
+        "name": "NM Liver / Spleen"
+    },
+    {
+        "invmastserviceid": 63117,
+        "name": "NM Lung Liver Shunt Fraction"
+    },
+    {
+        "invmastserviceid": 63115,
+        "name": "NM Lung (Q)"
+    },
+    {
+        "invmastserviceid": 63116,
+        "name": "NM Lung (V) [aero.]"
+    },
+    {
+        "invmastserviceid": 63118,
+        "name": "NM Lymphscintigram."
+    },
+    {
+        "invmastserviceid": 63119,
+        "name": "NM Meckels Divert."
+    },
+    {
+        "invmastserviceid": 63120,
+        "name": "NM m-IBG Scintigram"
+    },
+    {
+        "invmastserviceid": 63121,
+        "name": "NM Milk Scan"
+    },
+    {
+        "invmastserviceid": 63122,
+        "name": "NM Multigaded [MUGA]"
+    },
+    {
+        "invmastserviceid": 63123,
+        "name": "NM Myocard. [rest]"
+    },
+    {
+        "invmastserviceid": 63124,
+        "name": "NM Myocard. [stress]"
+    },
+    {
+        "invmastserviceid": 63125,
+        "name": "NM Nuclear Medicine Outside Study"
+    },
+    {
+        "invmastserviceid": 63126,
+        "name": "NM Octreotide"
+    },
+    {
+        "invmastserviceid": 63127,
+        "name": "NM Parathyroid"
+    },
+    {
+        "invmastserviceid": 63128,
+        "name": "NM Perch. Discharge"
+    },
+    {
+        "invmastserviceid": 63129,
+        "name": "NM Plasma Volume"
+    },
+    {
+        "invmastserviceid": 63130,
+        "name": "NM Polycythemia Rx"
+    },
+    {
+        "invmastserviceid": 63131,
+        "name": "NM Red Cell Mass Estimation"
+    },
+    {
+        "invmastserviceid": 63132,
+        "name": "NM Red Cell Survival Estimation"
+    },
+    {
+        "invmastserviceid": 63133,
+        "name": "NM Renogram"
+    },
+    {
+        "invmastserviceid": 63134,
+        "name": "NM Renogram (Capto)"
+    },
+    {
+        "invmastserviceid": 63135,
+        "name": "NM Renogram (Lasix)"
+    },
+    {
+        "invmastserviceid": 63136,
+        "name": "NM Renogram (tx)"
+    },
+    {
+        "invmastserviceid": 63137,
+        "name": "NM Rest Thallium"
+    },
+    {
+        "invmastserviceid": 63138,
+        "name": "NM Salivary Glands"
+    },
+    {
+        "invmastserviceid": 63141,
+        "name": "NM SPECT/CT Post Yttrium"
+    },
+    {
+        "invmastserviceid": 63139,
+        "name": "NM SPECT Liver Tumor Ratio"
+    },
+    {
+        "invmastserviceid": 63140,
+        "name": "NM Spect. (organ)"
+    },
+    {
+        "invmastserviceid": 63142,
+        "name": "NM Strontium-89 Rx"
+    },
+    {
+        "invmastserviceid": 63143,
+        "name": "NM Testes (Flow)"
+    },
+    {
+        "invmastserviceid": 63144,
+        "name": "NM Thyroid [131I]"
+    },
+    {
+        "invmastserviceid": 63145,
+        "name": "NM Thyroid [99mTc]"
+    },
+    {
+        "invmastserviceid": 63146,
+        "name": "NM Thyroid [99mTc] Inj"
+    },
+    {
+        "invmastserviceid": 63147,
+        "name": "NM Thyroid Ablation"
+    },
+    {
+        "invmastserviceid": 63148,
+        "name": "NM Thyrotoxicosis Rx"
+    },
+    {
+        "invmastserviceid": 63149,
+        "name": "NM TSH Uptake"
+    },
+    {
+        "invmastserviceid": 63150,
+        "name": "NM Uptake [131I]"
+    },
+    {
+        "invmastserviceid": 63151,
+        "name": "NM Uptake [99mTc]"
+    },
+    {
+        "invmastserviceid": 63152,
+        "name": "NM Urine Reflux"
+    },
+    {
+        "invmastserviceid": 63153,
+        "name": "NM Venogram"
+    },
+    {
+        "invmastserviceid": 63154,
+        "name": "NM Vit. B12 Absorp."
+    },
+    {
+        "invmastserviceid": 63155,
+        "name": "NM Whole Body [131I]"
+    },
+    {
+        "invmastserviceid": 63156,
+        "name": "NM Whole Body [201Tl]"
+    },
+    {
+        "invmastserviceid": 63157,
+        "name": "NM Whole Body [67Ga]"
+    },
+    {
+        "invmastserviceid": 63158,
+        "name": "NM Wholebody (Tetrofosmin)"
+    },
+    {
+        "invmastserviceid": 63159,
+        "name": "NM Yttrium Rx"
+    },
+    {
+        "invmastserviceid": 63160,
+        "name": "NM Zevalin"
+    },
+    {
+        "invmastserviceid": 63560,
+        "name": "NSICU"
+    },
+    {
+        "invmastserviceid": 62853,
+        "name": "NSICU Room Rent"
+    },
+    {
+        "invmastserviceid": 63551,
+        "name": "nursinng charge"
+    },
+    {
+        "invmastserviceid": 53283,
+        "name": "Obturation of resorption defect or perforation"
+    },
+    {
+        "invmastserviceid": 63185,
+        "name": "Occlusal"
+    },
+    {
+        "invmastserviceid": 53403,
+        "name": "Occupational Therapy (for patients with SUD)"
+    },
+    {
+        "invmastserviceid": 53284,
+        "name": "Odontoplasty, per tooth"
+    },
+    {
+        "invmastserviceid": 53595,
+        "name": "Opiate (6-Acetylmorphine) test"
+    },
+    {
+        "invmastserviceid": 53404,
+        "name": "Oral Administration of pharmacological agent-Controlled Medication"
+    },
+    {
+        "invmastserviceid": 53285,
+        "name": "Oral hygiene instruction"
+    },
+    {
+        "invmastserviceid": 53405,
+        "name": "Oral medication administration"
+    },
+    {
+        "invmastserviceid": 62867,
+        "name": "OT Bone Densitometry Outside Study"
+    },
+    {
+        "invmastserviceid": 53220,
+        "name": "OT initial assessment, 30 minutes"
+    },
+    {
+        "invmastserviceid": 53221,
+        "name": "OT initial assessment, 45 minutes"
+    },
+    {
+        "invmastserviceid": 53222,
+        "name": "OT initial assessment, 60 minutes"
+    },
+    {
+        "invmastserviceid": 53223,
+        "name": "OT subsequent assessment"
+    },
+    {
+        "invmastserviceid": 53224,
+        "name": "Outpatient prolonged, each additional 30 minutes"
+    },
+    {
+        "invmastserviceid": 53225,
+        "name": "Outpatient prolonged, First Hour"
+    },
+    {
+        "invmastserviceid": 63360,
+        "name": "Outside CT old"
+    },
+    {
+        "invmastserviceid": 53286,
+        "name": "Overlay, per tooth\", \"Overlay, per tooth"
+    },
+    {
+        "invmastserviceid": 53597,
+        "name": "Oxycodone"
+    },
+    {
+        "invmastserviceid": 63651,
+        "name": "Paleo Diet"
+    },
+    {
+        "invmastserviceid": 53287,
+        "name": "Palliative dental care"
+    },
+    {
+        "invmastserviceid": 63186,
+        "name": "Panoramic Bitewing Incisors"
+    },
+    {
+        "invmastserviceid": 63187,
+        "name": "Panoramic Bitewing Left"
+    },
+    {
+        "invmastserviceid": 63188,
+        "name": "Panoramic Bitewing Right"
+    },
+    {
+        "invmastserviceid": 63189,
+        "name": "Panoramic Bitewings"
+    },
+    {
+        "invmastserviceid": 63190,
+        "name": "Panoramic Incisors (Dental)"
+    },
+    {
+        "invmastserviceid": 63191,
+        "name": "Panoramic Lateral (1/2 OPG) Left"
+    },
+    {
+        "invmastserviceid": 63192,
+        "name": "Panoramic Lateral (1/2 OPG) right"
+    },
+    {
+        "invmastserviceid": 63193,
+        "name": "Panoramic Maxillary joint (TMJ) Lateral open/closed"
+    },
+    {
+        "invmastserviceid": 63194,
+        "name": "Panoramic Maxillary joint (TMJ) PA open/closed"
+    },
+    {
+        "invmastserviceid": 53288,
+        "name": "Panoramic radiograph, per exposure"
+    },
+    {
+        "invmastserviceid": 63195,
+        "name": "Panoramic Sinus Lateral"
+    },
+    {
+        "invmastserviceid": 63196,
+        "name": "Panoramic Sinus PA"
+    },
+    {
+        "invmastserviceid": 63197,
+        "name": "Panoramic standard"
+    },
+    {
+        "invmastserviceid": 63198,
+        "name": "Panoramic Standard Orthogonal"
+    },
+    {
+        "invmastserviceid": 53614,
+        "name": "Parvovirus IgG"
+    },
+    {
+        "invmastserviceid": 53615,
+        "name": "Parvovirus IgM"
+    },
+    {
+        "invmastserviceid": 53459,
+        "name": "PCV"
+    },
+    {
+        "invmastserviceid": 63199,
+        "name": "Periapical"
+    },
+    {
+        "invmastserviceid": 53289,
+        "name": "Periapical curettage, per root"
+    },
+    {
+        "invmastserviceid": 53290,
+        "name": "Periodic oral examination"
+    },
+    {
+        "invmastserviceid": 53291,
+        "name": "Periodontal flap procedure for crown lengthening, per tooth"
+    },
+    {
+        "invmastserviceid": 63325,
+        "name": "Peripheral angiogram stent graft"
+    },
+    {
+        "invmastserviceid": 63326,
+        "name": "Peripheral Angioplasty"
+    },
+    {
+        "invmastserviceid": 63453,
+        "name": "Peripheral Blood Film (PBF) (MGG stain)"
+    },
+    {
+        "invmastserviceid": 63327,
+        "name": "Peripheral Embolization < 12 coils"
+    },
+    {
+        "invmastserviceid": 63328,
+        "name": "Peripheral Stenting"
+    },
+    {
+        "invmastserviceid": 63161,
+        "name": "PET/CT Body"
+    },
+    {
+        "invmastserviceid": 63162,
+        "name": "PET/CT Brain"
+    },
+    {
+        "invmastserviceid": 63163,
+        "name": "PET/CT Cardiac"
+    },
+    {
+        "invmastserviceid": 63164,
+        "name": "PET/CT Galium 68 Dota-Tate"
+    },
+    {
+        "invmastserviceid": 63165,
+        "name": "PET/CT Galium 68 PSMA"
+    },
+    {
+        "invmastserviceid": 63166,
+        "name": "PET/CT Outside Study"
+    },
+    {
+        "invmastserviceid": 63167,
+        "name": "PET/CT Post Yttrium"
+    },
+    {
+        "invmastserviceid": 53634,
+        "name": "Phencyclidine test"
+    },
+    {
+        "invmastserviceid": 63413,
+        "name": "Phosphorus (Molybdate UV Method)"
+    },
+    {
+        "invmastserviceid": 53226,
+        "name": "Physical therapy initial assessment, 20 minutes"
+    },
+    {
+        "invmastserviceid": 53227,
+        "name": "Physical therapy initial assessment, 30 minutes"
+    },
+    {
+        "invmastserviceid": 53228,
+        "name": "Physical therapy initial assessment, 45 minutes"
+    },
+    {
+        "invmastserviceid": 53229,
+        "name": "Physical therapy re-assessment"
+    },
+    {
+        "invmastserviceid": 53406,
+        "name": "Physiotherapy including assessment"
+    },
+    {
+        "invmastserviceid": 63329,
+        "name": "PICC catheter"
+    },
+    {
+        "invmastserviceid": 63561,
+        "name": "PICU"
+    },
+    {
+        "invmastserviceid": 62854,
+        "name": "PICU Rent"
+    },
+    {
+        "invmastserviceid": 53452,
+        "name": "Platelet Count"
+    },
+    {
+        "invmastserviceid": 63562,
+        "name": "POD - B"
+    },
+    {
+        "invmastserviceid": 63525,
+        "name": "POD - B"
+    },
+    {
+        "invmastserviceid": 63649,
+        "name": "pod-d rent"
+    },
+    {
+        "invmastserviceid": 63570,
+        "name": "POD - E1"
+    },
+    {
+        "invmastserviceid": 63569,
+        "name": "POD - E2"
+    },
+    {
+        "invmastserviceid": 53130,
+        "name": "Point to objective,toys when asked"
+    },
+    {
+        "invmastserviceid": 63330,
+        "name": "Port Catheter"
+    },
+    {
+        "invmastserviceid": 53292,
+        "name": "Post and root cap, indirect"
+    },
+    {
+        "invmastserviceid": 53293,
+        "name": "Post cast, preformed or wrought"
+    },
+    {
+        "invmastserviceid": 63624,
+        "name": "Post OP Care Fee"
+    },
+    {
+        "invmastserviceid": 53294,
+        "name": "Postoperative dental care, not elsewhere classified"
+    },
+    {
+        "invmastserviceid": 63414,
+        "name": "Potassium (ISE Indirect)"
+    },
+    {
+        "invmastserviceid": 53643,
+        "name": "Pre-conception (IVF) screen"
+    },
+    {
+        "invmastserviceid": 53598,
+        "name": "Pregabalin"
+    },
+    {
+        "invmastserviceid": 63454,
+        "name": "Pregnancy Test (Card-Immunochromatography)"
+    },
+    {
+        "invmastserviceid": 53295,
+        "name": "Preliminary restoration for crown, direct"
+    },
+    {
+        "invmastserviceid": 53296,
+        "name": "Preparation of diagnostic model, per model"
+    },
+    {
+        "invmastserviceid": 53137,
+        "name": "Pretends with dolls or his/herself"
+    },
+    {
+        "invmastserviceid": 53651,
+        "name": "Pre-transplant screen: Donor"
+    },
+    {
+        "invmastserviceid": 53652,
+        "name": "Pre-transplant screen: Recepient"
+    },
+    {
+        "invmastserviceid": 53552,
+        "name": "Progesteron"
+    },
+    {
+        "invmastserviceid": 53538,
+        "name": "Prolactin"
+    },
+    {
+        "invmastserviceid": 53539,
+        "name": "Prolactin- Pregnant"
+    },
+    {
+        "invmastserviceid": 53635,
+        "name": "Propoxyphene test"
+    },
+    {
+        "invmastserviceid": 63482,
+        "name": "Prothrombin Time (Mechanical and optical)"
+    },
+    {
+        "invmastserviceid": 53308,
+        "name": "Provisional bridge, per pontic"
+    },
+    {
+        "invmastserviceid": 53309,
+        "name": "Provisional crown"
+    },
+    {
+        "invmastserviceid": 53310,
+        "name": "Provisional restoration of tooth"
+    },
+    {
+        "invmastserviceid": 53297,
+        "name": "Provision of metal splint, indirect"
+    },
+    {
+        "invmastserviceid": 53298,
+        "name": "Provision of mouthguard, indirect"
+    },
+    {
+        "invmastserviceid": 53299,
+        "name": "Provision of occlusal rest to partial denture, per rest"
+    },
+    {
+        "invmastserviceid": 53300,
+        "name": "Provision of partial mandibular denture, cast metal framework"
+    },
+    {
+        "invmastserviceid": 53301,
+        "name": "Provision of partial mandibular denture, resin base"
+    },
+    {
+        "invmastserviceid": 53302,
+        "name": "Provision of partial maxillary denture, cast metal framework"
+    },
+    {
+        "invmastserviceid": 53303,
+        "name": "Provision of partial maxillary denture, resin base"
+    },
+    {
+        "invmastserviceid": 53304,
+        "name": "Provision of resin splint, indirect"
+    },
+    {
+        "invmastserviceid": 53305,
+        "name": "Provision of retainer to partial denture"
+    },
+    {
+        "invmastserviceid": 53306,
+        "name": "Provision of surgical guide for immediate denture"
+    },
+    {
+        "invmastserviceid": 53307,
+        "name": "Provision of tooth to partial denture, per tooth"
+    },
+    {
+        "invmastserviceid": 53230,
+        "name": "Psychiatric diagnostic evaluation"
+    },
+    {
+        "invmastserviceid": 53232,
+        "name": "Psychiatric diagnostic evaluation- is an integrated biopsychosocial assessment, including history, mental status, and recommendations, includes communication with family or other sources and review and ordering of diagnostic studies"
+    },
+    {
+        "invmastserviceid": 53231,
+        "name": "Psychiatric diagnostic evaluation- is an integrated biopsychosocial assessment, including history, mental status, and recommendations, includes communication with family or other sources and review and ordering of diagnostic studies"
+    },
+    {
+        "invmastserviceid": 53233,
+        "name": "Psychiatric diagnostic evaluation with medical services"
+    },
+    {
+        "invmastserviceid": 53407,
+        "name": "Psychodynamic therapy (patients with SUD)"
+    },
+    {
+        "invmastserviceid": 53408,
+        "name": "Psychological skills training (patients with SUD)"
+    },
+    {
+        "invmastserviceid": 53409,
+        "name": "Psychological testing e.g. MMPI, Rorschach, WAIS"
+    },
+    {
+        "invmastserviceid": 53410,
+        "name": "Psychophysiological therapy, biofeedback 30 minutes"
+    },
+    {
+        "invmastserviceid": 53411,
+        "name": "Psychophysiological therapy, biofeedback 45 minutes"
+    },
+    {
+        "invmastserviceid": 53412,
+        "name": "Psychosocial assessment by Psychologist (patients with SUD)"
+    },
+    {
+        "invmastserviceid": 53413,
+        "name": "Psychosocial educational service, per 15 minutes"
+    },
+    {
+        "invmastserviceid": 53415,
+        "name": "Psychosocial rehabilitation service, per 15 minutes"
+    },
+    {
+        "invmastserviceid": 53414,
+        "name": "Psychosocial rehabilitation service, per 15 minutes"
+    },
+    {
+        "invmastserviceid": 53418,
+        "name": "Psychotherapy, 30 minutes with patient and/or family member (Typical time spend 16-37 minutes)"
+    },
+    {
+        "invmastserviceid": 53419,
+        "name": "Psychotherapy, 30 minutes with patient and/or family member (Typical time spend 16-37 minutes)"
+    },
+    {
+        "invmastserviceid": 53421,
+        "name": "Psychotherapy, 45 minutes with patient and/or family member (Typical time spend 38-52 minutes)"
+    },
+    {
+        "invmastserviceid": 53420,
+        "name": "Psychotherapy, 45 minutes with patient and/or family member (Typical time spend 38-52 minutes)"
+    },
+    {
+        "invmastserviceid": 53423,
+        "name": "Psychotherapy, 60 minutes with patient and/or family member (Typical time spend 53 minutes or more)"
+    },
+    {
+        "invmastserviceid": 53422,
+        "name": "Psychotherapy, 60 minutes with patient and/or family member (Typical time spend 53 minutes or more)"
+    },
+    {
+        "invmastserviceid": 53416,
+        "name": "Psychotherapy for crisis, each 30 minutes"
+    },
+    {
+        "invmastserviceid": 53417,
+        "name": "Psychotherapy for crisis, first 60 minutes"
+    },
+    {
+        "invmastserviceid": 63331,
+        "name": "PTC and Percutaneous Stent Placement"
+    },
+    {
+        "invmastserviceid": 53573,
+        "name": "PTH"
+    },
+    {
+        "invmastserviceid": 63332,
+        "name": "Pulmonary Angiogram"
+    },
+    {
+        "invmastserviceid": 63333,
+        "name": "Pulmonary Angiogram with Selective"
+    },
+    {
+        "invmastserviceid": 53312,
+        "name": "Pulpotomy"
+    },
+    {
+        "invmastserviceid": 53311,
+        "name": "Pulp testing"
+    },
+    {
+        "invmastserviceid": 63445,
+        "name": "Pus cells"
+    },
+    {
+        "invmastserviceid": 63209,
+        "name": "Pyelogram, Retrograde"
+    },
+    {
+        "invmastserviceid": 63455,
+        "name": "Rapid Malaria Test."
+    },
+    {
+        "invmastserviceid": 53447,
+        "name": "RBC"
+    },
+    {
+        "invmastserviceid": 53543,
+        "name": "RBC Folate"
+    },
+    {
+        "invmastserviceid": 53313,
+        "name": "Reattachment of pre-existing tooth or clasp to denture"
+    },
+    {
+        "invmastserviceid": 53314,
+        "name": "Rebonding of bridge or splint"
+    },
+    {
+        "invmastserviceid": 53315,
+        "name": "Recementing bridge or splint, per abutment"
+    },
+    {
+        "invmastserviceid": 53316,
+        "name": "Recementing crown or veneer"
+    },
+    {
+        "invmastserviceid": 53317,
+        "name": "Recementing of inlay/onlay"
+    },
+    {
+        "invmastserviceid": 53132,
+        "name": "Recognizes parts of body"
+    },
+    {
+        "invmastserviceid": 53122,
+        "name": "Recognizes words like daddy,mamma,tata etc"
+    },
+    {
+        "invmastserviceid": 53318,
+        "name": "Recontouring of pre-existing restoration(s)"
+    },
+    {
+        "invmastserviceid": 53319,
+        "name": "Reduction of flabby ridge, per segment"
+    },
+    {
+        "invmastserviceid": 53424,
+        "name": "Rehabilitation program, per ½ day"
+    },
+    {
+        "invmastserviceid": 53425,
+        "name": "Religious/spiritual counselling or education."
+    },
+    {
+        "invmastserviceid": 53320,
+        "name": "Relining of complete denture, direct"
+    },
+    {
+        "invmastserviceid": 53321,
+        "name": "Relining of complete denture, processed"
+    },
+    {
+        "invmastserviceid": 53322,
+        "name": "Relining of partial denture, direct"
+    },
+    {
+        "invmastserviceid": 53323,
+        "name": "Relining of partial denture, processed"
+    },
+    {
+        "invmastserviceid": 53324,
+        "name": "Remodeling of complete denture"
+    },
+    {
+        "invmastserviceid": 53325,
+        "name": "Remodeling of partial denture"
+    },
+    {
+        "invmastserviceid": 53326,
+        "name": "Removal of a tooth or part(s) thereof"
+    },
+    {
+        "invmastserviceid": 53327,
+        "name": "Removal of bridge or splint"
+    },
+    {
+        "invmastserviceid": 53328,
+        "name": "Removal of calculus from surfaces of teeth"
+    },
+    {
+        "invmastserviceid": 53329,
+        "name": "Removal of cemented root canal post or post crown"
+    },
+    {
+        "invmastserviceid": 53330,
+        "name": "Removal of crown"
+    },
+    {
+        "invmastserviceid": 53331,
+        "name": "Removal of hyperplastic tissue"
+    },
+    {
+        "invmastserviceid": 53332,
+        "name": "Removal of inlay/onlay"
+    },
+    {
+        "invmastserviceid": 53333,
+        "name": "Removal of plaque or stain of teeth"
+    },
+    {
+        "invmastserviceid": 53334,
+        "name": "Removal of root filling, per canal"
+    },
+    {
+        "invmastserviceid": 53335,
+        "name": "Removal or bypass of fractured endodontic instrument"
+    },
+    {
+        "invmastserviceid": 63334,
+        "name": "Renal Artery Angioplasty"
+    },
+    {
+        "invmastserviceid": 63480,
+        "name": "Renal Panel (BUN, Creatinine)"
+    },
+    {
+        "invmastserviceid": 53563,
+        "name": "Renin Activity"
+    },
+    {
+        "invmastserviceid": 54970,
+        "name": "Rent"
+    },
+    {
+        "invmastserviceid": 54971,
+        "name": "Rent"
+    },
+    {
+        "invmastserviceid": 53336,
+        "name": "Repair of broken base of complete denture"
+    },
+    {
+        "invmastserviceid": 53337,
+        "name": "Repair of broken base of partial denture"
+    },
+    {
+        "invmastserviceid": 53338,
+        "name": "Repair of crown, bridge or splint, direct"
+    },
+    {
+        "invmastserviceid": 53339,
+        "name": "Repair of crown, bridge or splint, indirect"
+    },
+    {
+        "invmastserviceid": 53340,
+        "name": "Repair or addition to metal casting"
+    },
+    {
+        "invmastserviceid": 53341,
+        "name": "Replacement of tooth on denture, per tooth"
+    },
+    {
+        "invmastserviceid": 53342,
+        "name": "Replacement or addition of clasp to denture"
+    },
+    {
+        "invmastserviceid": 53426,
+        "name": "Reports for external agencies"
+    },
+    {
+        "invmastserviceid": 53343,
+        "name": "Repositioning of displaced tooth, per tooth"
+    },
+    {
+        "invmastserviceid": 53344,
+        "name": "Resilient lining"
+    },
+    {
+        "invmastserviceid": 53345,
+        "name": "Resorbable root canal filling, primary tooth"
+    },
+    {
+        "invmastserviceid": 53118,
+        "name": "Responds by smiling"
+    },
+    {
+        "invmastserviceid": 53117,
+        "name": "Responds to bell/rattle/clap"
+    },
+    {
+        "invmastserviceid": 53128,
+        "name": "Responds to music by bodily movements"
+    },
+    {
+        "invmastserviceid": 53121,
+        "name": "Responds to own name"
+    },
+    {
+        "invmastserviceid": 53126,
+        "name": "Responds to requests"
+    },
+    {
+        "invmastserviceid": 53346,
+        "name": "Restoration of incisal corner of anterior tooth, per corner"
+    },
+    {
+        "invmastserviceid": 53347,
+        "name": "Retainer for bonded fixture, indirect, per tooth"
+    },
+    {
+        "invmastserviceid": 53453,
+        "name": "RET Count"
+    },
+    {
+        "invmastserviceid": 63335,
+        "name": "RFA, x-per guide"
+    },
+    {
+        "invmastserviceid": 53348,
+        "name": "Root canal obturation, 1 canal"
+    },
+    {
+        "invmastserviceid": 53349,
+        "name": "Root canal obturation, each additional canal"
+    },
+    {
+        "invmastserviceid": 53609,
+        "name": "Rubella IgG"
+    },
+    {
+        "invmastserviceid": 63336,
+        "name": "Sclerotherapy"
+    },
+    {
+        "invmastserviceid": 53612,
+        "name": "screening ELISA ans RPR"
+    },
+    {
+        "invmastserviceid": 53350,
+        "name": "Sectional removal of a tooth or part(s) thereof"
+    },
+    {
+        "invmastserviceid": 53427,
+        "name": "Self-care/home management training (e.g., activities of daily living (ADL) and compensatory training, meal preparation, safety procedures, and instructions in use of assistive technology devices/adaptive equipment) direct one-on-one contact, each 15 minutes"
+    },
+    {
+        "invmastserviceid": 53428,
+        "name": "Self-management training; 2-4 patients"
+    },
+    {
+        "invmastserviceid": 53429,
+        "name": "Self-management training; 5-8 patients"
+    },
+    {
+        "invmastserviceid": 53430,
+        "name": "Self-management training; individual"
+    },
+    {
+        "invmastserviceid": 53431,
+        "name": "Sensory integrative techniques to enhance sensory processing and promote adaptive responses to environmental demands, direct (one-on-one) patient contact, each 15 minutes"
+    },
+    {
+        "invmastserviceid": 63416,
+        "name": "Serum Carnitine"
+    },
+    {
+        "invmastserviceid": 53560,
+        "name": "Serum Cortisol"
+    },
+    {
+        "invmastserviceid": 53562,
+        "name": "Serum Cortisol (4 PM - 8 PM)"
+    },
+    {
+        "invmastserviceid": 53561,
+        "name": "Serum Cortisol (6 AM - 10 AM)"
+    },
+    {
+        "invmastserviceid": 53544,
+        "name": "Serum Folate"
+    },
+    {
+        "invmastserviceid": 63527,
+        "name": "service-nurse-"
+    },
+    {
+        "invmastserviceid": 53432,
+        "name": "Services of clinical social worker in home health or hospice setting, each 15 minutes"
+    },
+    {
+        "invmastserviceid": 53433,
+        "name": "Services performed by a qualified occupational therapist in the home health or hospice setting, each 15 minutes"
+    },
+    {
+        "invmastserviceid": 53434,
+        "name": "Services typically provided in the office, provided out of the office at request of patient, in addition to basic service"
+    },
+    {
+        "invmastserviceid": 53641,
+        "name": "Sharps/needle stick accident"
+    },
+    {
+        "invmastserviceid": 53553,
+        "name": "SHBG"
+    },
+    {
+        "invmastserviceid": 53138,
+        "name": "Shows interest in sounds of  TV"
+    },
+    {
+        "invmastserviceid": 63337,
+        "name": "Sialogram"
+    },
+    {
+        "invmastserviceid": 63338,
+        "name": "Sinogram"
+    },
+    {
+        "invmastserviceid": 53565,
+        "name": "Sirolimus"
+    },
+    {
+        "invmastserviceid": 53566,
+        "name": "Sirolimus- with Cyclosporine"
+    },
+    {
+        "invmastserviceid": 54983,
+        "name": "Smear Check"
+    },
+    {
+        "invmastserviceid": 53234,
+        "name": "Social work and psychological services, directly relating to and/or furthering the patients rehabilitation goals, each 15 minutes , face to face; individual"
+    },
+    {
+        "invmastserviceid": 63417,
+        "name": "Sodium (ISE Indirect)"
+    },
+    {
+        "invmastserviceid": 53135,
+        "name": "Speaking vocabulary of 10-20 words"
+    },
+    {
+        "invmastserviceid": 63457,
+        "name": "Specific Gravity"
+    },
+    {
+        "invmastserviceid": 63528,
+        "name": "specimen-request"
+    },
+    {
+        "invmastserviceid": 53351,
+        "name": "Splinting and stabilization of tooth, direct"
+    },
+    {
+        "invmastserviceid": 53352,
+        "name": "Splinting of displaced tooth, per tooth"
+    },
+    {
+        "invmastserviceid": 62863,
+        "name": "Sputum Culture"
+    },
+    {
+        "invmastserviceid": 63436,
+        "name": "Sputum Culture(B)"
+    },
+    {
+        "invmastserviceid": 62855,
+        "name": "Standard Room Rent"
+    },
+    {
+        "invmastserviceid": 63563,
+        "name": "Standard Ward"
+    },
+    {
+        "invmastserviceid": 62856,
+        "name": "Standard Ward Rent"
+    },
+    {
+        "invmastserviceid": 63339,
+        "name": "Stenting Renal Artery"
+    },
+    {
+        "invmastserviceid": 63000,
+        "name": "Stereotactic Breast Biopsy"
+    },
+    {
+        "invmastserviceid": 63437,
+        "name": "Stool Culture and Sensitivity"
+    },
+    {
+        "invmastserviceid": 53435,
+        "name": "Substance addiction counselling or education"
+    },
+    {
+        "invmastserviceid": 53436,
+        "name": "Supportive psychotherapy (patients with SUD)"
+    },
+    {
+        "invmastserviceid": 63620,
+        "name": "Surgeon Fee"
+    },
+    {
+        "invmastserviceid": 53353,
+        "name": "Surgical periodontal procedure, not elsewhere classified, per tooth or implant"
+    },
+    {
+        "invmastserviceid": 53354,
+        "name": "Surgical removal of a tooth or tooth fragment not requiring removal of bone or tooth division"
+    },
+    {
+        "invmastserviceid": 53355,
+        "name": "Surgical removal of a tooth or tooth fragment requiring both removal of bone and tooth"
+    },
+    {
+        "invmastserviceid": 53356,
+        "name": "Surgical removal of a tooth or tooth fragment requiring removal of bone"
+    },
+    {
+        "invmastserviceid": 53357,
+        "name": "Surgical sealing of tooth root perforation"
+    },
+    {
+        "invmastserviceid": 53358,
+        "name": "Surgical treatment and repair of external root resorption, per tooth"
+    },
+    {
+        "invmastserviceid": 53129,
+        "name": "Sustain interest for 2 minutes in one picture"
+    },
+    {
+        "invmastserviceid": 53636,
+        "name": "Synthetic THC-K2"
+    },
+    {
+        "invmastserviceid": 53642,
+        "name": "Syphilis"
+    },
+    {
+        "invmastserviceid": 53613,
+        "name": "Syphilis Serology"
+    },
+    {
+        "invmastserviceid": 63418,
+        "name": "T3 (Total)  (ECLIA)"
+    },
+    {
+        "invmastserviceid": 63419,
+        "name": "T4 (ECLIA)"
+    },
+    {
+        "invmastserviceid": 53567,
+        "name": "Tacrolimus- Immediately after transplant"
+    },
+    {
+        "invmastserviceid": 53569,
+        "name": "Tacrolimus- In pancreas and bone marrow transplant"
+    },
+    {
+        "invmastserviceid": 53568,
+        "name": "Tacrolimus- In stable liver and kidney transplant"
+    },
+    {
+        "invmastserviceid": 63500,
+        "name": "TB Panel"
+    },
+    {
+        "invmastserviceid": 63625,
+        "name": "Technician Fee"
+    },
+    {
+        "invmastserviceid": 53147,
+        "name": "Tells gender when asked"
+    },
+    {
+        "invmastserviceid": 53599,
+        "name": "THC (Cannabis)"
+    },
+    {
+        "invmastserviceid": 63621,
+        "name": "Theatre Fee"
+    },
+    {
+        "invmastserviceid": 53438,
+        "name": "Therapeutic activities, direct (one-on-one) patient contact, each 15 minutes"
+    },
+    {
+        "invmastserviceid": 53437,
+        "name": "Therapeutic activities, direct (one-on-one) patient contact (use of dynamic activities to improve functional performance), each 15 minutes"
+    },
+    {
+        "invmastserviceid": 53440,
+        "name": "Therapeutic procedure(s), group (2 or more individuals)"
+    },
+    {
+        "invmastserviceid": 53439,
+        "name": "Therapeutic procedure(s), group (2 or more individuals)"
+    },
+    {
+        "invmastserviceid": 63340,
+        "name": "Thoracic Stent Graft(10cm)"
+    },
+    {
+        "invmastserviceid": 63341,
+        "name": "Thoracic Stent Graft(20cm)"
+    },
+    {
+        "invmastserviceid": 63495,
+        "name": "Thyroid Function Test (TFT)"
+    },
+    {
+        "invmastserviceid": 63421,
+        "name": "Thyroid Stimulating Hormone (Fasting)"
+    },
+    {
+        "invmastserviceid": 63420,
+        "name": "Thyroid Stimulating Hormone  (Ultra Sensitive)  (ECLIA)"
+    },
+    {
+        "invmastserviceid": 63342,
+        "name": "TIPS revision"
+    },
+    {
+        "invmastserviceid": 53359,
+        "name": "Tissue conditioning preparatory to impressions, per application"
+    },
+    {
+        "invmastserviceid": 62934,
+        "name": "Tomogram"
+    },
+    {
+        "invmastserviceid": 53360,
+        "name": "Tooth root resection, per root"
+    },
+    {
+        "invmastserviceid": 53361,
+        "name": "Topical application of remineralization agent, 1 treatment"
+    },
+    {
+        "invmastserviceid": 63503,
+        "name": "Total Leukocyte Count (TC)"
+    },
+    {
+        "invmastserviceid": 63422,
+        "name": "Total Protein (Biuret method)"
+    },
+    {
+        "invmastserviceid": 53632,
+        "name": "Toxoplasma IgG"
+    },
+    {
+        "invmastserviceid": 53653,
+        "name": "Toxoplasma IgM"
+    },
+    {
+        "invmastserviceid": 53540,
+        "name": "TPSA"
+    },
+    {
+        "invmastserviceid": 53600,
+        "name": "Tramadol"
+    },
+    {
+        "invmastserviceid": 63343,
+        "name": "Transjugular intrahepatic porto systemic shunt (TIPS)"
+    },
+    {
+        "invmastserviceid": 63344,
+        "name": "Transjugular liver biopsy"
+    },
+    {
+        "invmastserviceid": 53362,
+        "name": "Treatment of acute periodontal infection"
+    },
+    {
+        "invmastserviceid": 53476,
+        "name": "Triglyceride"
+    },
+    {
+        "invmastserviceid": 63423,
+        "name": "Triglycerides (Tg) (GPO Enzymatic)"
+    },
+    {
+        "invmastserviceid": 53529,
+        "name": "TSH"
+    },
+    {
+        "invmastserviceid": 53146,
+        "name": "Understands common adjectives"
+    },
+    {
+        "invmastserviceid": 53134,
+        "name": "Understands distinction between personal pronouns"
+    },
+    {
+        "invmastserviceid": 53441,
+        "name": "Unlisted physical medicine / Large group therapeutic exercise"
+    },
+    {
+        "invmastserviceid": 62865,
+        "name": "Upper G I Endoscopy"
+    },
+    {
+        "invmastserviceid": 63210,
+        "name": "Urethrogram"
+    },
+    {
+        "invmastserviceid": 63345,
+        "name": "Uretral stent internal"
+    },
+    {
+        "invmastserviceid": 53584,
+        "name": "Urine Aldosterone"
+    },
+    {
+        "invmastserviceid": 63509,
+        "name": "Urine Colour"
+    },
+    {
+        "invmastserviceid": 53585,
+        "name": "Urine Cortisol"
+    },
+    {
+        "invmastserviceid": 54978,
+        "name": "Urine Culture  and  Sensitivity"
+    },
+    {
+        "invmastserviceid": 63438,
+        "name": "Urine Culture and Sensitivity(C)"
+    },
+    {
+        "invmastserviceid": 53655,
+        "name": "Urine Drug Screening- UDS"
+    },
+    {
+        "invmastserviceid": 63458,
+        "name": "Urine Glucose"
+    },
+    {
+        "invmastserviceid": 63459,
+        "name": "Urine Ketone"
+    },
+    {
+        "invmastserviceid": 63496,
+        "name": "Urine R/E (Semiquantitive)"
+    },
+    {
+        "invmastserviceid": 63211,
+        "name": "US Abdomen"
+    },
+    {
+        "invmastserviceid": 63212,
+        "name": "US Amniocentesis."
+    },
+    {
+        "invmastserviceid": 63213,
+        "name": "US Brain"
+    },
+    {
+        "invmastserviceid": 63214,
+        "name": "US Breast"
+    },
+    {
+        "invmastserviceid": 63215,
+        "name": "US Carotid Intima Media Thickness"
+    },
+    {
+        "invmastserviceid": 63216,
+        "name": "US Elbow"
+    },
+    {
+        "invmastserviceid": 53127,
+        "name": "Uses one word"
+    },
+    {
+        "invmastserviceid": 53148,
+        "name": "Uses three word sentences"
+    },
+    {
+        "invmastserviceid": 53131,
+        "name": "Uses voice to pointing"
+    },
+    {
+        "invmastserviceid": 63217,
+        "name": "US Extremity"
+    },
+    {
+        "invmastserviceid": 63218,
+        "name": "US F.N.A. Lymph Node"
+    },
+    {
+        "invmastserviceid": 63219,
+        "name": "US F.N.A. Thyroid"
+    },
+    {
+        "invmastserviceid": 63220,
+        "name": "US Guided Aspiration"
+    },
+    {
+        "invmastserviceid": 63221,
+        "name": "US Guided Biopsy"
+    },
+    {
+        "invmastserviceid": 63222,
+        "name": "US Guided Drainage Catheter"
+    },
+    {
+        "invmastserviceid": 63223,
+        "name": "US Guided RFA - Double Probe"
+    },
+    {
+        "invmastserviceid": 63224,
+        "name": "US Guided RFA - Single Probe"
+    },
+    {
+        "invmastserviceid": 63225,
+        "name": "US Guided RFA - Triple Probe"
+    },
+    {
+        "invmastserviceid": 63226,
+        "name": "US Guided Sclerotherapy"
+    },
+    {
+        "invmastserviceid": 63227,
+        "name": "US Guided Wire Localization"
+    },
+    {
+        "invmastserviceid": 63228,
+        "name": "US Hip"
+    },
+    {
+        "invmastserviceid": 63229,
+        "name": "US Knee"
+    },
+    {
+        "invmastserviceid": 63230,
+        "name": "US Liver with Elastography"
+    },
+    {
+        "invmastserviceid": 63231,
+        "name": "US Lumbar Region"
+    },
+    {
+        "invmastserviceid": 63232,
+        "name": "US Neck"
+    },
+    {
+        "invmastserviceid": 63233,
+        "name": "US Pelvis"
+    },
+    {
+        "invmastserviceid": 63234,
+        "name": "US Pregnancy"
+    },
+    {
+        "invmastserviceid": 63235,
+        "name": "US Renal"
+    },
+    {
+        "invmastserviceid": 63236,
+        "name": "US Shoulder"
+    },
+    {
+        "invmastserviceid": 63237,
+        "name": "US Soft Tissue Mass."
+    },
+    {
+        "invmastserviceid": 63238,
+        "name": "US Testes"
+    },
+    {
+        "invmastserviceid": 63239,
+        "name": "US Thyroid"
+    },
+    {
+        "invmastserviceid": 63240,
+        "name": "US Trans Cranial Doppler"
+    },
+    {
+        "invmastserviceid": 63241,
+        "name": "US Ultrasound guided clip insertion"
+    },
+    {
+        "invmastserviceid": 63242,
+        "name": "US Ultrasound guided excision"
+    },
+    {
+        "invmastserviceid": 63243,
+        "name": "US Ultrasound of the surgical specimen"
+    },
+    {
+        "invmastserviceid": 63244,
+        "name": "US Ultrasound Outside Study"
+    },
+    {
+        "invmastserviceid": 63245,
+        "name": "US Vessels (Doppler)"
+    },
+    {
+        "invmastserviceid": 63246,
+        "name": "US Wrist"
+    },
+    {
+        "invmastserviceid": 63346,
+        "name": "Venogram, Central"
+    },
+    {
+        "invmastserviceid": 63347,
+        "name": "Venogram, Peripheral"
+    },
+    {
+        "invmastserviceid": 63348,
+        "name": "Venous Thrombectomy"
+    },
+    {
+        "invmastserviceid": 63349,
+        "name": "Venous Thrombolysis 24 hrs"
+    },
+    {
+        "invmastserviceid": 63350,
+        "name": "Venous Thrombolysis with angioplasty"
+    },
+    {
+        "invmastserviceid": 53645,
+        "name": "Vesicular skin rash"
+    },
+    {
+        "invmastserviceid": 53545,
+        "name": "Vitamin B12"
+    },
+    {
+        "invmastserviceid": 53574,
+        "name": "Vitamin D"
+    },
+    {
+        "invmastserviceid": 63424,
+        "name": "VLDL (Calculated)"
+    },
+    {
+        "invmastserviceid": 53119,
+        "name": "Vocalizes with 2 or more syllables"
+    },
+    {
+        "invmastserviceid": 53610,
+        "name": "VZV IgG"
+    },
+    {
+        "invmastserviceid": 53619,
+        "name": "VZV-IgG"
+    },
+    {
+        "invmastserviceid": 53446,
+        "name": "WBC"
+    },
+    {
+        "invmastserviceid": 63533,
+        "name": "WICB Staff Package With Amount"
+    },
+    {
+        "invmastserviceid": 63531,
+        "name": "WICB Staff Package With Count"
+    },
+    {
+        "invmastserviceid": 53443,
+        "name": "Work hardening / conditioning; each additional hour"
+    },
+    {
+        "invmastserviceid": 53442,
+        "name": "Work hardening / conditioning, initial 2 hours"
+    },
+    {
+        "invmastserviceid": 53363,
+        "name": "Written report, dental"
+    },
+    {
+        "invmastserviceid": 63351,
+        "name": "XA Angiography Intervention Outside Study"
+    },
+    {
+        "invmastserviceid": 63352,
+        "name": "XA, Hepatic Angiogram Mapping and Embolization"
+    },
+    {
+        "invmastserviceid": 63353,
+        "name": "XA, Radioembolization"
+    },
+    {
+        "invmastserviceid": 62935,
+        "name": "XR"
+    },
+    {
+        "invmastserviceid": 62936,
+        "name": "XR Abdomen"
+    },
+    {
+        "invmastserviceid": 62937,
+        "name": "XR Abdomen & Chest - Urgent"
+    },
+    {
+        "invmastserviceid": 62938,
+        "name": "XR Acromio-Clavicular Joint"
+    },
+    {
+        "invmastserviceid": 62939,
+        "name": "XR Ankle Joint"
+    },
+    {
+        "invmastserviceid": 62940,
+        "name": "XR Atlanto-Occipital Joint"
+    },
+    {
+        "invmastserviceid": 62941,
+        "name": "XR Babygram"
+    },
+    {
+        "invmastserviceid": 62942,
+        "name": "XR Bone Age"
+    },
+    {
+        "invmastserviceid": 62943,
+        "name": "XR Bone Measurement"
+    },
+    {
+        "invmastserviceid": 62944,
+        "name": "XR Cervical Spine"
+    },
+    {
+        "invmastserviceid": 62945,
+        "name": "XR Cervico-Thoracic Spine"
+    },
+    {
+        "invmastserviceid": 62946,
+        "name": "XR Chest"
+    },
+    {
+        "invmastserviceid": 62947,
+        "name": "XR Clavicle"
+    },
+    {
+        "invmastserviceid": 62948,
+        "name": "XR Coccyx"
+    },
+    {
+        "invmastserviceid": 62949,
+        "name": "XR Elbow Joint"
+    },
+    {
+        "invmastserviceid": 62950,
+        "name": "XR Facial Bones"
+    },
+    {
+        "invmastserviceid": 62951,
+        "name": "XR Femur"
+    },
+    {
+        "invmastserviceid": 62952,
+        "name": "XR Finger 1"
+    },
+    {
+        "invmastserviceid": 62953,
+        "name": "XR Finger 2"
+    },
+    {
+        "invmastserviceid": 62954,
+        "name": "XR Finger 3"
+    },
+    {
+        "invmastserviceid": 62955,
+        "name": "XR Finger 4"
+    },
+    {
+        "invmastserviceid": 62956,
+        "name": "XR Finger 5"
+    },
+    {
+        "invmastserviceid": 62957,
+        "name": "XR Foot"
+    },
+    {
+        "invmastserviceid": 62958,
+        "name": "XR Forearm"
+    },
+    {
+        "invmastserviceid": 63001,
+        "name": "XR Galuctogram"
+    },
+    {
+        "invmastserviceid": 62959,
+        "name": "XR Hand"
+    },
+    {
+        "invmastserviceid": 62960,
+        "name": "XR Hip"
+    },
+    {
+        "invmastserviceid": 62961,
+        "name": "XR Humerus"
+    },
+    {
+        "invmastserviceid": 62962,
+        "name": "XR Internal Auditory Meatus"
+    },
+    {
+        "invmastserviceid": 62964,
+        "name": "XR Knee Joint"
+    },
+    {
+        "invmastserviceid": 62963,
+        "name": "XR K.U.B. Kidney, Ureter, Bladder"
+    },
+    {
+        "invmastserviceid": 62965,
+        "name": "XR Lower Extremity Standing (For Length Measurements)"
+    },
+    {
+        "invmastserviceid": 62966,
+        "name": "XR Lower Leg"
+    },
+    {
+        "invmastserviceid": 62967,
+        "name": "XR Lumbar Spine"
+    },
+    {
+        "invmastserviceid": 63002,
+        "name": "XR Mammography Bilat."
+    },
+    {
+        "invmastserviceid": 63003,
+        "name": "XR Mammography Outside Study"
+    },
+    {
+        "invmastserviceid": 63004,
+        "name": "XR Mammography Single"
+    },
+    {
+        "invmastserviceid": 62968,
+        "name": "XR Mandible"
+    },
+    {
+        "invmastserviceid": 62969,
+        "name": "XR Mastoid Air Cells"
+    },
+    {
+        "invmastserviceid": 62970,
+        "name": "XR Nasal Bones"
+    },
+    {
+        "invmastserviceid": 62971,
+        "name": "XR Neck, Soft Tissue"
+    },
+    {
+        "invmastserviceid": 63200,
+        "name": "XR OPG, Orthopantomogram"
+    },
+    {
+        "invmastserviceid": 62972,
+        "name": "XR Optic Foramen"
+    },
+    {
+        "invmastserviceid": 62973,
+        "name": "XR Orbits"
+    },
+    {
+        "invmastserviceid": 62974,
+        "name": "XR Outside Study for Comparison"
+    },
+    {
+        "invmastserviceid": 63355,
+        "name": "XR Pelvimetry"
+    },
+    {
+        "invmastserviceid": 62975,
+        "name": "XR Pelvis"
+    },
+    {
+        "invmastserviceid": 62976,
+        "name": "XR Pituitary Fossa"
+    },
+    {
+        "invmastserviceid": 62977,
+        "name": "XR Post Nasal Space"
+    },
+    {
+        "invmastserviceid": 62978,
+        "name": "XR Sacro-Illiac  Joint"
+    },
+    {
+        "invmastserviceid": 62979,
+        "name": "XR Sacrum"
+    },
+    {
+        "invmastserviceid": 62980,
+        "name": "XR Scaphoid"
+    },
+    {
+        "invmastserviceid": 62981,
+        "name": "XR Scapula"
+    },
+    {
+        "invmastserviceid": 62982,
+        "name": "XR Shoulder Joint"
+    },
+    {
+        "invmastserviceid": 62983,
+        "name": "XR Sinuses"
+    },
+    {
+        "invmastserviceid": 62984,
+        "name": "XR Skeletal Survey"
+    },
+    {
+        "invmastserviceid": 62985,
+        "name": "XR Skull"
+    },
+    {
+        "invmastserviceid": 63005,
+        "name": "XR Speciment X-Ray"
+    },
+    {
+        "invmastserviceid": 62986,
+        "name": "XR Sterno-Clavicular Joint"
+    },
+    {
+        "invmastserviceid": 62987,
+        "name": "XR Sternum"
+    },
+    {
+        "invmastserviceid": 62988,
+        "name": "XR Temporo-Mandibular Joint"
+    },
+    {
+        "invmastserviceid": 62989,
+        "name": "XR Thoracic Inlet"
+    },
+    {
+        "invmastserviceid": 62990,
+        "name": "XR Thoracic Spine"
+    },
+    {
+        "invmastserviceid": 62991,
+        "name": "XR Toe 1"
+    },
+    {
+        "invmastserviceid": 62992,
+        "name": "XR Toe 2"
+    },
+    {
+        "invmastserviceid": 62993,
+        "name": "XR Toe 3"
+    },
+    {
+        "invmastserviceid": 62994,
+        "name": "XR Toe 4"
+    },
+    {
+        "invmastserviceid": 62995,
+        "name": "XR Toe 5"
+    },
+    {
+        "invmastserviceid": 62996,
+        "name": "XR Upper Extremity Standing (For Length Measurements)"
+    },
+    {
+        "invmastserviceid": 62997,
+        "name": "XR Whole Spine Standing (For Length Measurements)"
+    },
+    {
+        "invmastserviceid": 63006,
+        "name": "XR Wire Localization"
+    },
+    {
+        "invmastserviceid": 62998,
+        "name": "XR Wrist Joint"
+    },
+    {
+        "invmastserviceid": 62999,
+        "name": "XR Zygomatic Arches"
+    },
+    {
+        "invmastserviceid": 63610,
+        "name": "Zubair Test Pakage"
+    }
+]
+
